@@ -1,182 +1,527 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
- <head>
-  <title>
+  <head>
+    <title>
 </title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name='ocr-system' content='tesseract 3.04.00' />
-  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
-</head>
-<body>
-  <div class='ocr_page' id='page_1' title='image "tess/page255.tif"; bbox 0 0 4958 7017; ppageno 0'>
-   <div class='ocr_carea' id='block_1_1' title="bbox 2171 398 2776 850">
-    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2171 398 2776 850">
-     <span class='ocr_line' id='line_1_1' title="bbox 2171 398 2776 850; baseline 0 6167"><span class='ocrx_word' id='word_1_1' title='bbox 2171 398 2776 850; x_wconf 95' lang='ita' dir='ltr'> </span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_2' title="bbox 1390 864 3571 1035">
-    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1390 864 3571 1035">
-     <span class='ocr_line' id='line_1_2' title="bbox 1981 864 2976 922; baseline 0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1981 864 2366 922; x_wconf 80' lang='ita' dir='ltr'>Fondazione</span> <span class='ocrx_word' id='word_1_3' title='bbox 2390 864 2775 922; x_wconf 84' lang='ita' dir='ltr'>Memofonte</span> <span class='ocrx_word' id='word_1_4' title='bbox 2800 865 2976 922; x_wconf 86' lang='ita' dir='ltr'>onlus</span> 
-     </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 1390 960 3571 1035; baseline 0 -17"><span class='ocrx_word' id='word_1_5' title='bbox 1390 960 1600 1018; x_wconf 89' lang='ita' dir='ltr'>Studio</span> <span class='ocrx_word' id='word_1_6' title='bbox 1624 979 1731 1035; x_wconf 96' lang='ita' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_7' title='bbox 1754 960 2226 1018; x_wconf 98' lang='ita' dir='ltr'>l’elaborazione</span> <span class='ocrx_word' id='word_1_8' title='bbox 2250 960 2632 1018; x_wconf 84' lang='ita' dir='ltr'>informatica</span> <span class='ocrx_word' id='word_1_9' title='bbox 2655 961 2813 1018; x_wconf 98' lang='ita' dir='ltr'>delle</span> <span class='ocrx_word' id='word_1_10' title='bbox 2838 960 2991 1018; x_wconf 84' lang='ita' dir='ltr'>fonti</span> <span class='ocrx_word' id='word_1_11' title='bbox 3018 960 3571 1018; x_wconf 95' lang='ita' dir='ltr'>storico—artistiche</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_3' title="bbox 472 1119 4264 1123">
-    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 472 1119 4264 1123">
-     <span class='ocr_line' id='line_1_4' title="bbox 472 1119 4264 1123; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 472 1119 4264 1123; x_wconf 95' lang='ita' dir='ltr'> </span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_4' title="bbox 712 1251 2408 1437">
-    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 712 1251 2408 1437">
-     <span class='ocr_line' id='line_1_5' title="bbox 712 1251 989 1320; baseline 0.004 -1"><span class='ocrx_word' id='word_1_13' title='bbox 712 1251 989 1320; x_wconf 85' lang='ita' dir='ltr'>formis.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_6' title="bbox 713 1362 2408 1437; baseline 0 -17"><span class='ocrx_word' id='word_1_14' title='bbox 713 1363 942 1434; x_wconf 88' lang='ita' dir='ltr'>Questo</span> <span class='ocrx_word' id='word_1_15' title='bbox 969 1363 1214 1420; x_wconf 86' lang='ita' dir='ltr'>volume</span> <span class='ocrx_word' id='word_1_16' title='bbox 1238 1363 1397 1420; x_wconf 99' lang='ita' dir='ltr'>nelle</span> <span class='ocrx_word' id='word_1_17' title='bbox 1424 1362 1510 1420; x_wconf 98' lang='ita' dir='ltr'>sei</span> <span class='ocrx_word' id='word_1_18' title='bbox 1535 1381 1717 1437; x_wconf 96' lang='ita' dir='ltr'>opere</span> <span class='ocrx_word' id='word_1_19' title='bbox 1742 1362 2019 1420; x_wconf 95' lang='ita' dir='ltr'>contiene</span> <span class='ocrx_word' id='word_1_20' title='bbox 2043 1363 2244 1420; x_wconf 95' lang='ita' dir='ltr'>tavole</span> <span class='ocrx_word' id='word_1_21' title='bbox 2276 1363 2408 1420; x_wconf 83' lang='ita'>133.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_5' title="bbox 475 1558 3614 1744">
-    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 475 1558 3614 1744">
-     <span class='ocr_line' id='line_1_7' title="bbox 475 1558 3614 1648; baseline 0 -22"><span class='ocrx_word' id='word_1_22' title='bbox 475 1559 690 1627; x_wconf 88' lang='ita'>2142.</span> <span class='ocrx_word' id='word_1_23' title='bbox 724 1560 915 1627; x_wconf 88' lang='ita' dir='ltr'>VITE</span> <span class='ocrx_word' id='word_1_24' title='bbox 940 1580 979 1627; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_25' title='bbox 1007 1558 1253 1627; x_wconf 84' lang='ita' dir='ltr'>ritratti</span> <span class='ocrx_word' id='word_1_26' title='bbox 1284 1558 1623 1627; x_wconf 90' lang='ita' dir='ltr'>d’illustri</span> <span class='ocrx_word' id='word_1_27' title='bbox 1654 1558 1952 1640; x_wconf 90' lang='ita' dir='ltr'>Italiani,</span> <span class='ocrx_word' id='word_1_28' title='bbox 1985 1558 2296 1640; x_wconf 84' lang='ita' dir='ltr'>Padova,</span> <span class='ocrx_word' id='word_1_29' title='bbox 2330 1558 2749 1648; x_wconf 85' lang='ita' dir='ltr'>Tipografia</span> <span class='ocrx_word' id='word_1_30' title='bbox 2777 1558 3088 1640; x_wconf 90' lang='ita' dir='ltr'>Bettoni,</span> <span class='ocrx_word' id='word_1_31' title='bbox 3130 1559 3316 1627; x_wconf 88' lang='ita'>1812</span> <span class='ocrx_word' id='word_1_32' title='bbox 3347 1580 3386 1627; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_33' title='bbox 3418 1580 3614 1648; x_wconf 93' lang='ita' dir='ltr'>segg.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_8' title="bbox 713 1669 1832 1744; baseline -0.001 -17"><span class='ocrx_word' id='word_1_34' title='bbox 713 1670 930 1744; x_wconf 92' lang='ita' dir='ltr'>Opera,</span> <span class='ocrx_word' id='word_1_35' title='bbox 958 1669 1069 1727; x_wconf 99' lang='ita' dir='ltr'>che</span> <span class='ocrx_word' id='word_1_36' title='bbox 1096 1678 1184 1727; x_wconf 95' lang='ita' dir='ltr'>sta</span> <span class='ocrx_word' id='word_1_37' title='bbox 1205 1669 1670 1744; x_wconf 96' lang='ita' dir='ltr'>pubblicandosi</span> <span class='ocrx_word' id='word_1_38' title='bbox 1694 1669 1757 1726; x_wconf 99' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_39' title='bbox 1780 1670 1832 1727; x_wconf 92' lang='ita'>4.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_6' title="bbox 473 1866 766 1955">
-    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 473 1866 766 1955">
-     <span class='ocr_line' id='line_1_9' title="bbox 473 1866 766 1955; baseline -0.003 -21"><span class='ocrx_word' id='word_1_40' title='bbox 473 1867 566 1955; x_wconf 91' lang='ita' dir='ltr'>[p.</span> <span class='ocrx_word' id='word_1_41' title='bbox 597 1866 766 1948; x_wconf 84' lang='ita'>371]</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_7' title="bbox 467 2075 4488 2436">
-    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 467 2075 4488 2436">
-     <span class='ocr_line' id='line_1_10' title="bbox 467 2075 3632 2165; baseline 0 -22"><span class='ocrx_word' id='word_1_42' title='bbox 467 2076 682 2144; x_wconf 86' lang='ita'>2143.</span> <span class='ocrx_word' id='word_1_43' title='bbox 711 2077 1081 2143; x_wconf 86' lang='ita' dir='ltr'>RITRATTI</span> <span class='ocrx_word' id='word_1_44' title='bbox 1105 2075 1444 2144; x_wconf 90' lang='ita' dir='ltr'>d’illustri</span> <span class='ocrx_word' id='word_1_45' title='bbox 1475 2075 1752 2144; x_wconf 90' lang='ita' dir='ltr'>Italiani</span> <span class='ocrx_word' id='word_1_46' title='bbox 1782 2075 2077 2157; x_wconf 90' lang='ita' dir='ltr'>viventi,</span> <span class='ocrx_word' id='word_1_47' title='bbox 2110 2075 2421 2157; x_wconf 91' lang='ita' dir='ltr'>Padova,</span> <span class='ocrx_word' id='word_1_48' title='bbox 2453 2075 2841 2165; x_wconf 80' lang='ita' dir='ltr'>tipografia</span> <span class='ocrx_word' id='word_1_49' title='bbox 2869 2075 3180 2157; x_wconf 90' lang='ita' dir='ltr'>Bettoni,</span> <span class='ocrx_word' id='word_1_50' title='bbox 3222 2075 3430 2157; x_wconf 98' lang='ita'>1815,</span> <span class='ocrx_word' id='word_1_51' title='bbox 3463 2075 3537 2143; x_wconf 90' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_52' title='bbox 3565 2076 3632 2144; x_wconf 92' lang='ita'>4.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_11' title="bbox 736 2186 4488 2261; baseline 0 -17"><span class='ocrx_word' id='word_1_53' title='bbox 736 2188 822 2244; x_wconf 97' lang='ita' dir='ltr'>La</span> <span class='ocrx_word' id='word_1_54' title='bbox 853 2186 1047 2261; x_wconf 96' lang='ita' dir='ltr'>prima</span> <span class='ocrx_word' id='word_1_55' title='bbox 1080 2186 1141 2244; x_wconf 99' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_56' title='bbox 1176 2195 1385 2261; x_wconf 92' lang='ita' dir='ltr'>queste</span> <span class='ocrx_word' id='word_1_57' title='bbox 1420 2187 1536 2244; x_wconf 98' lang='ita' dir='ltr'>due</span> <span class='ocrx_word' id='word_1_58' title='bbox 1571 2205 1753 2261; x_wconf 96' lang='ita' dir='ltr'>opere</span> <span class='ocrx_word' id='word_1_59' title='bbox 1787 2186 1849 2243; x_wconf 98' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_60' title='bbox 1882 2186 2128 2261; x_wconf 93' lang='ita' dir='ltr'>ispecie,</span> <span class='ocrx_word' id='word_1_61' title='bbox 2166 2186 2278 2244; x_wconf 98' lang='ita' dir='ltr'>che</span> <span class='ocrx_word' id='word_1_62' title='bbox 2311 2186 2698 2261; x_wconf 82' lang='ita' dir='ltr'>progredisce</span> <span class='ocrx_word' id='word_1_63' title='bbox 2734 2187 2789 2244; x_wconf 98' lang='ita' dir='ltr'>al</span> <span class='ocrx_word' id='word_1_64' title='bbox 2826 2205 2934 2244; x_wconf 98' lang='ita' dir='ltr'>suo</span> <span class='ocrx_word' id='word_1_65' title='bbox 2969 2186 3238 2254; x_wconf 93' lang='ita' dir='ltr'>termine,</span> <span class='ocrx_word' id='word_1_66' title='bbox 3276 2187 3643 2261; x_wconf 97' lang='ita' dir='ltr'>comprende</span> <span class='ocrx_word' id='word_1_67' title='bbox 3677 2205 3797 2244; x_wconf 97' lang='ita' dir='ltr'>una</span> <span class='ocrx_word' id='word_1_68' title='bbox 3832 2186 3983 2244; x_wconf 98' lang='ita' dir='ltr'>serie</span> <span class='ocrx_word' id='word_1_69' title='bbox 4018 2186 4079 2244; x_wconf 99' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_70' title='bbox 4115 2186 4193 2244; x_wconf 90' lang='ita'>60</span> <span class='ocrx_word' id='word_1_71' title='bbox 4227 2186 4488 2261; x_wconf 85' lang='ita' dir='ltr'>preziosi</span> 
-     </span>
-     <span class='ocr_line' id='line_1_12' title="bbox 726 2282 4486 2357; baseline 0 -17"><span class='ocrx_word' id='word_1_72' title='bbox 726 2282 932 2340; x_wconf 95' lang='ita' dir='ltr'>ritratti</span> <span class='ocrx_word' id='word_1_73' title='bbox 963 2282 1255 2357; x_wconf 82' lang='ita' dir='ltr'>intagliati</span> <span class='ocrx_word' id='word_1_74' title='bbox 1287 2301 1320 2340; x_wconf 99' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_75' title='bbox 1352 2282 1649 2357; x_wconf 89' lang='ita' dir='ltr'>disegnati</span> <span class='ocrx_word' id='word_1_76' title='bbox 1681 2283 1777 2340; x_wconf 98' lang='ita' dir='ltr'>da’</span> <span class='ocrx_word' id='word_1_77' title='bbox 1814 2282 1992 2357; x_wconf 90' lang='ita' dir='ltr'>primi</span> <span class='ocrx_word' id='word_1_78' title='bbox 2025 2282 2210 2340; x_wconf 95' lang='ita' dir='ltr'>artisti</span> <span class='ocrx_word' id='word_1_79' title='bbox 2243 2282 2487 2350; x_wconf 92' lang='ita' dir='ltr'>viventi,</span> <span class='ocrx_word' id='word_1_80' title='bbox 2522 2283 2782 2340; x_wconf 98' lang='ita' dir='ltr'>essendo</span> <span class='ocrx_word' id='word_1_81' title='bbox 2815 2283 2871 2340; x_wconf 99' lang='ita' dir='ltr'>le</span> <span class='ocrx_word' id='word_1_82' title='bbox 2903 2282 3194 2340; x_wconf 87' lang='ita' dir='ltr'>memorie</span> <span class='ocrx_word' id='word_1_83' title='bbox 3228 2282 3490 2340; x_wconf 95' lang='ita' dir='ltr'>storione</span> <span class='ocrx_word' id='word_1_84' title='bbox 3522 2291 3717 2340; x_wconf 95' lang='ita' dir='ltr'>estese</span> <span class='ocrx_word' id='word_1_85' title='bbox 3750 2283 3845 2340; x_wconf 98' lang='ita' dir='ltr'>da’</span> <span class='ocrx_word' id='word_1_86' title='bbox 3882 2282 3987 2357; x_wconf 88' lang='ita' dir='ltr'>più</span> <span class='ocrx_word' id='word_1_87' title='bbox 4018 2282 4204 2340; x_wconf 98' lang='ita' dir='ltr'>chiari</span> <span class='ocrx_word' id='word_1_88' title='bbox 4236 2282 4486 2340; x_wconf 95' lang='ita' dir='ltr'>letterati</span> 
-     </span>
-     <span class='ocr_line' id='line_1_13' title="bbox 728 2379 1077 2436; baseline 0 0"><span class='ocrx_word' id='word_1_89' title='bbox 728 2379 826 2436; x_wconf 99' lang='ita' dir='ltr'>del</span> <span class='ocrx_word' id='word_1_90' title='bbox 853 2379 1077 2436; x_wconf 88' lang='ita' dir='ltr'>secolo.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_8' title="bbox 488 2574 4125 2655">
-    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 488 2574 4125 2655">
-     <span class='ocr_line' id='line_1_14' title="bbox 488 2574 4125 2655; baseline 0 -13"><span class='ocrx_word' id='word_1_91' title='bbox 488 2575 703 2643; x_wconf 92' lang='ita'>2144.</span> <span class='ocrx_word' id='word_1_92' title='bbox 737 2576 849 2643; x_wconf 96' lang='ita' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_93' title='bbox 878 2576 1033 2643; x_wconf 94' lang='ita' dir='ltr'>Vos</span> <span class='ocrx_word' id='word_1_94' title='bbox 1063 2574 1402 2643; x_wconf 91' lang='ita' dir='ltr'>Martino.</span> <span class='ocrx_word' id='word_1_95' title='bbox 1436 2574 1626 2643; x_wconf 88' lang='ita' dir='ltr'>Vedi</span> <span class='ocrx_word' id='word_1_96' title='bbox 1660 2574 2057 2644; x_wconf 80' lang='ita' dir='ltr'>0raculum</span> <span class='ocrx_word' id='word_1_97' title='bbox 2086 2574 2697 2655; x_wconf 80' lang='ita' dir='ltr'>anachoreticum,</span> <span class='ocrx_word' id='word_1_98' title='bbox 2742 2577 2914 2655; x_wconf 82' lang='ita' dir='ltr'>Vita,</span> <span class='ocrx_word' id='word_1_99' title='bbox 2951 2577 3215 2643; x_wconf 83' lang='ita' dir='ltr'>Passio</span> <span class='ocrx_word' id='word_1_100' title='bbox 3246 2588 3316 2643; x_wconf 81' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_101' title='bbox 3339 2577 3804 2643; x_wconf 80' lang='ita' dir='ltr'>Resurrectio</span> <span class='ocrx_word' id='word_1_102' title='bbox 3839 2574 4125 2644; x_wconf 79' lang='ita' dir='ltr'>Christi.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_9' title="bbox 1801 2985 3396 3077">
-    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 1801 2985 3396 3077">
-     <span class='ocr_line' id='line_1_15' title="bbox 1801 2985 3396 3077; baseline 0 -2"><span class='ocrx_word' id='word_1_103' title='bbox 1801 2985 2485 3077; x_wconf 87' lang='ita' dir='ltr'>DIZIONARI</span> <span class='ocrx_word' id='word_1_104' title='bbox 2523 2987 2600 3075; x_wconf 92' lang='ita' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_105' title='bbox 2637 2985 3396 3077; x_wconf 86' lang='ita' dir='ltr'>ABECEDARI</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_10' title="bbox 479 3321 4061 3507">
-    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 479 3321 4061 3507">
-     <span class='ocr_line' id='line_1_16' title="bbox 479 3321 4061 3411; baseline 0 -22"><span class='ocrx_word' id='word_1_106' title='bbox 479 3321 694 3390; x_wconf 99' lang='ita'>2145.</span> <span class='ocrx_word' id='word_1_107' title='bbox 727 3322 1021 3403; x_wconf 86' lang='ita' dir='ltr'>AQUINI</span> <span class='ocrx_word' id='word_1_108' title='bbox 1044 3321 1311 3403; x_wconf 90' lang='ita' dir='ltr'>Caroli,</span> <span class='ocrx_word' id='word_1_109' title='bbox 1344 3321 1912 3390; x_wconf 90' lang='ita' dir='ltr'>Vocabularium</span> <span class='ocrx_word' id='word_1_110' title='bbox 1939 3321 2480 3390; x_wconf 86' lang='ita' dir='ltr'>Architecturae</span> <span class='ocrx_word' id='word_1_111' title='bbox 2512 3321 3070 3403; x_wconf 85' lang='ita' dir='ltr'>aedificatoriae,</span> <span class='ocrx_word' id='word_1_112' title='bbox 3103 3323 3403 3403; x_wconf 90' lang='ita' dir='ltr'>Romae,</span> <span class='ocrx_word' id='word_1_113' title='bbox 3445 3322 3654 3403; x_wconf 88' lang='ita'>1784,</span> <span class='ocrx_word' id='word_1_114' title='bbox 3687 3321 3761 3389; x_wconf 90' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_115' title='bbox 3790 3332 4061 3411; x_wconf 90' lang='ita' dir='ltr'>quarto.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_17' title="bbox 713 3432 3441 3507; baseline 0 -17"><span class='ocrx_word' id='word_1_116' title='bbox 713 3433 914 3507; x_wconf 92' lang='ita' dir='ltr'>Opera</span> <span class='ocrx_word' id='word_1_117' title='bbox 937 3433 1265 3490; x_wconf 87' lang='ita' dir='ltr'>eccellente</span> <span class='ocrx_word' id='word_1_118' title='bbox 1288 3451 1395 3507; x_wconf 96' lang='ita' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_119' title='bbox 1418 3432 1681 3490; x_wconf 92' lang='ita' dir='ltr'>l’analisi</span> <span class='ocrx_word' id='word_1_120' title='bbox 1707 3432 1818 3490; x_wconf 99' lang='ita' dir='ltr'>che</span> <span class='ocrx_word' id='word_1_121' title='bbox 1843 3432 2019 3490; x_wconf 98' lang='ita' dir='ltr'>viene</span> <span class='ocrx_word' id='word_1_122' title='bbox 2045 3432 2190 3490; x_wconf 84' lang='ita' dir='ltr'>fatta</span> <span class='ocrx_word' id='word_1_123' title='bbox 2213 3433 2373 3490; x_wconf 98' lang='ita' dir='ltr'>della</span> <span class='ocrx_word' id='word_1_124' title='bbox 2398 3432 2859 3507; x_wconf 84' lang='ita' dir='ltr'>signiﬁcazione</span> <span class='ocrx_word' id='word_1_125' title='bbox 2884 3432 3097 3507; x_wconf 92' lang='ita' dir='ltr'>d’ogni</span> <span class='ocrx_word' id='word_1_126' title='bbox 3122 3433 3441 3490; x_wconf 91' lang='ita' dir='ltr'>vocabolo.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_11' title="bbox 471 3628 4488 3948">
-    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 471 3628 4488 3948">
-     <span class='ocr_line' id='line_1_18' title="bbox 471 3628 4486 3718; baseline 0 -21"><span class='ocrx_word' id='word_1_127' title='bbox 471 3628 686 3697; x_wconf 98' lang='ita'>2146.</span> <span class='ocrx_word' id='word_1_128' title='bbox 723 3630 1222 3697; x_wconf 87' lang='ita' dir='ltr'>BALDINUCCI</span> <span class='ocrx_word' id='word_1_129' title='bbox 1247 3628 1554 3718; x_wconf 90' lang='ita' dir='ltr'>Filippo,</span> <span class='ocrx_word' id='word_1_130' title='bbox 1590 3628 2079 3697; x_wconf 87' lang='ita' dir='ltr'>Vocabolario</span> <span class='ocrx_word' id='word_1_131' title='bbox 2111 3639 2412 3697; x_wconf 91' lang='ita' dir='ltr'>toscano</span> <span class='ocrx_word' id='word_1_132' title='bbox 2446 3628 2774 3697; x_wconf 90' lang='ita' dir='ltr'>dell’arte</span> <span class='ocrx_word' id='word_1_133' title='bbox 2807 3628 2925 3697; x_wconf 97' lang='ita' dir='ltr'>del</span> <span class='ocrx_word' id='word_1_134' title='bbox 2958 3628 3262 3718; x_wconf 91' lang='ita' dir='ltr'>disegno</span> <span class='ocrx_word' id='word_1_135' title='bbox 3295 3628 3414 3697; x_wconf 95' lang='ita' dir='ltr'>nel</span> <span class='ocrx_word' id='word_1_136' title='bbox 3446 3628 3659 3718; x_wconf 90' lang='ita' dir='ltr'>quale</span> <span class='ocrx_word' id='word_1_137' title='bbox 3694 3628 3753 3697; x_wconf 90' lang='ita' dir='ltr'>si</span> <span class='ocrx_word' id='word_1_138' title='bbox 3787 3628 4158 3718; x_wconf 90' lang='ita' dir='ltr'>esplicano</span> <span class='ocrx_word' id='word_1_139' title='bbox 4191 3628 4214 3696; x_wconf 90' lang='ita' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_140' title='bbox 4246 3628 4486 3718; x_wconf 90' lang='ita' dir='ltr'>propri</span> 
-     </span>
-     <span class='ocr_line' id='line_1_19' title="bbox 711 3743 4488 3833; baseline 0 -21"><span class='ocrx_word' id='word_1_141' title='bbox 711 3743 996 3812; x_wconf 91' lang='ita' dir='ltr'>termini</span> <span class='ocrx_word' id='word_1_142' title='bbox 1037 3765 1076 3812; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_143' title='bbox 1115 3743 1283 3812; x_wconf 90' lang='ita' dir='ltr'>voci</span> <span class='ocrx_word' id='word_1_144' title='bbox 1323 3765 1469 3812; x_wconf 95' lang='ita' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_145' title='bbox 1511 3743 1670 3812; x_wconf 93' lang='ita' dir='ltr'>solo</span> <span class='ocrx_word' id='word_1_146' title='bbox 1712 3743 1903 3812; x_wconf 90' lang='ita' dir='ltr'>della</span> <span class='ocrx_word' id='word_1_147' title='bbox 1939 3743 2218 3833; x_wconf 90' lang='ita' dir='ltr'>pittura,</span> <span class='ocrx_word' id='word_1_148' title='bbox 2264 3743 2576 3812; x_wconf 90' lang='ita' dir='ltr'>scultura</span> <span class='ocrx_word' id='word_1_149' title='bbox 2615 3754 2684 3812; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_150' title='bbox 2724 3743 3174 3812; x_wconf 90' lang='ita' dir='ltr'>architettura</span> <span class='ocrx_word' id='word_1_151' title='bbox 3212 3765 3332 3812; x_wconf 90' lang='ita' dir='ltr'>ma</span> <span class='ocrx_word' id='word_1_152' title='bbox 3372 3765 3634 3812; x_wconf 90' lang='ita' dir='ltr'>ancora</span> <span class='ocrx_word' id='word_1_153' title='bbox 3672 3743 3745 3812; x_wconf 91' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_154' title='bbox 3787 3743 3958 3812; x_wconf 90' lang='ita' dir='ltr'>altre</span> <span class='ocrx_word' id='word_1_155' title='bbox 4000 3743 4126 3812; x_wconf 91' lang='ita' dir='ltr'>arti</span> <span class='ocrx_word' id='word_1_156' title='bbox 4168 3765 4208 3812; x_wconf 90' lang='ita' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_157' title='bbox 4246 3743 4488 3833; x_wconf 90' lang='ita' dir='ltr'>quella</span> 
-     </span>
-     <span class='ocr_line' id='line_1_20' title="bbox 715 3858 4487 3948; baseline 0 -21"><span class='ocrx_word' id='word_1_158' title='bbox 715 3858 1174 3927; x_wconf 90' lang='ita' dir='ltr'>subordinate</span> <span class='ocrx_word' id='word_1_159' title='bbox 1211 3880 1250 3927; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_160' title='bbox 1288 3858 1421 3927; x_wconf 96' lang='ita' dir='ltr'>che</span> <span class='ocrx_word' id='word_1_161' title='bbox 1460 3858 1770 3927; x_wconf 90' lang='ita' dir='ltr'>abbiano</span> <span class='ocrx_word' id='word_1_162' title='bbox 1806 3880 1932 3948; x_wconf 91' lang='ita' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_163' title='bbox 1966 3858 2439 3927; x_wconf 85' lang='ita' dir='ltr'>fondamento</span> <span class='ocrx_word' id='word_1_164' title='bbox 2476 3858 2528 3926; x_wconf 90' lang='ita' dir='ltr'>il</span> <span class='ocrx_word' id='word_1_165' title='bbox 2565 3858 2892 3948; x_wconf 91' lang='ita' dir='ltr'>disegno,</span> <span class='ocrx_word' id='word_1_166' title='bbox 2934 3880 3073 3927; x_wconf 95' lang='ita' dir='ltr'>con</span> <span class='ocrx_word' id='word_1_167' title='bbox 3109 3858 3179 3927; x_wconf 91' lang='ita' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_168' title='bbox 3213 3858 3484 3927; x_wconf 90' lang='ita' dir='ltr'>notizia</span> <span class='ocrx_word' id='word_1_169' title='bbox 3519 3858 3632 3927; x_wconf 94' lang='ita' dir='ltr'>de’</span> <span class='ocrx_word' id='word_1_170' title='bbox 3678 3858 3880 3927; x_wconf 91' lang='ita' dir='ltr'>nomi</span> <span class='ocrx_word' id='word_1_171' title='bbox 3918 3880 3957 3927; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_172' title='bbox 3993 3858 4263 3948; x_wconf 83' lang='ita' dir='ltr'>qualità</span> <span class='ocrx_word' id='word_1_173' title='bbox 4298 3858 4487 3927; x_wconf 97' lang='ita' dir='ltr'>delle</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_12' title="bbox 711 3973 4490 4238">
-    <p class='ocr_par' dir='ltr' id='par_1_12' title="bbox 711 3973 4490 4238">
-     <span class='ocr_line' id='line_1_21' title="bbox 713 3973 3435 4063; baseline -0 -21"><span class='ocrx_word' id='word_1_174' title='bbox 713 3973 928 4063; x_wconf 91' lang='ita' dir='ltr'>gioie,</span> <span class='ocrx_word' id='word_1_175' title='bbox 961 3973 1234 4042; x_wconf 90' lang='ita' dir='ltr'>metalli</span> <span class='ocrx_word' id='word_1_176' title='bbox 1265 3995 1304 4042; x_wconf 97' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_177' title='bbox 1332 3973 1557 4063; x_wconf 90' lang='ita' dir='ltr'>pietre</span> <span class='ocrx_word' id='word_1_178' title='bbox 1587 3973 1760 4042; x_wconf 92' lang='ita' dir='ltr'>dure</span> <span class='ocrx_word' id='word_1_179' title='bbox 1790 3995 1893 4042; x_wconf 96' lang='ita' dir='ltr'>ec.</span> <span class='ocrx_word' id='word_1_180' title='bbox 1927 3973 2244 4055; x_wconf 90' lang='ita' dir='ltr'>Firenze,</span> <span class='ocrx_word' id='word_1_181' title='bbox 2276 3995 2403 4063; x_wconf 91' lang='ita' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_182' title='bbox 2432 3973 2631 4042; x_wconf 90' lang='ita' dir='ltr'>Santi</span> <span class='ocrx_word' id='word_1_183' title='bbox 2660 3973 2983 4055; x_wconf 91' lang='ita' dir='ltr'>Franchi,</span> <span class='ocrx_word' id='word_1_184' title='bbox 3025 3973 3233 4055; x_wconf 98' lang='ita'>1681,</span> <span class='ocrx_word' id='word_1_185' title='bbox 3266 3973 3340 4041; x_wconf 90' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_186' title='bbox 3368 3974 3435 4042; x_wconf 99' lang='ita'>4.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_22' title="bbox 711 4084 4490 4159; baseline 0 -18"><span class='ocrx_word' id='word_1_187' title='bbox 711 4084 892 4142; x_wconf 97' lang='ita' dir='ltr'>Libro</span> <span class='ocrx_word' id='word_1_188' title='bbox 921 4084 1220 4159; x_wconf 93' lang='ita' dir='ltr'>prezioso,</span> <span class='ocrx_word' id='word_1_189' title='bbox 1253 4084 1364 4142; x_wconf 99' lang='ita' dir='ltr'>che</span> <span class='ocrx_word' id='word_1_190' title='bbox 1393 4084 1470 4142; x_wconf 98' lang='ita' dir='ltr'>ha</span> <span class='ocrx_word' id='word_1_191' title='bbox 1497 4084 1627 4142; x_wconf 95' lang='ita' dir='ltr'>tutti</span> <span class='ocrx_word' id='word_1_192' title='bbox 1656 4084 1676 4141; x_wconf 99' lang='ita' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_193' title='bbox 1704 4084 1974 4159; x_wconf 88' lang='ita' dir='ltr'>requisiti</span> <span class='ocrx_word' id='word_1_194' title='bbox 2002 4103 2109 4159; x_wconf 96' lang='ita' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_195' title='bbox 2137 4084 2227 4142; x_wconf 84' lang='ita' dir='ltr'>far</span> <span class='ocrx_word' id='word_1_196' title='bbox 2254 4093 2407 4142; x_wconf 95' lang='ita' dir='ltr'>testo</span> <span class='ocrx_word' id='word_1_197' title='bbox 2438 4084 2499 4142; x_wconf 99' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_198' title='bbox 2529 4084 2734 4159; x_wconf 96' lang='ita' dir='ltr'>lingua</span> <span class='ocrx_word' id='word_1_199' title='bbox 2763 4103 2796 4142; x_wconf 99' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_200' title='bbox 2825 4085 2985 4142; x_wconf 98' lang='ita' dir='ltr'>nella</span> <span class='ocrx_word' id='word_1_201' title='bbox 3012 4093 3173 4142; x_wconf 95' lang='ita' dir='ltr'>terza</span> <span class='ocrx_word' id='word_1_202' title='bbox 3201 4084 3479 4142; x_wconf 99' lang='ita' dir='ltr'>edizione</span> <span class='ocrx_word' id='word_1_203' title='bbox 3509 4085 3607 4142; x_wconf 99' lang='ita' dir='ltr'>del</span> <span class='ocrx_word' id='word_1_204' title='bbox 3636 4084 4044 4142; x_wconf 92' lang='ita' dir='ltr'>Vocabolario</span> <span class='ocrx_word' id='word_1_205' title='bbox 4074 4085 4234 4142; x_wconf 98' lang='ita' dir='ltr'>della</span> <span class='ocrx_word' id='word_1_206' title='bbox 4262 4085 4490 4142; x_wconf 90' lang='ita' dir='ltr'>Crusca</span> 
-     </span>
-     <span class='ocr_line' id='line_1_23' title="bbox 711 4180 1254 4238; baseline 0.002 -1"><span class='ocrx_word' id='word_1_207' title='bbox 711 4180 906 4238; x_wconf 85' lang='ita' dir='ltr'>infatti</span> <span class='ocrx_word' id='word_1_208' title='bbox 932 4199 1254 4238; x_wconf 97' lang='ita' dir='ltr'>ammesso.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_13' title="bbox 483 4375 4014 4465">
-    <p class='ocr_par' dir='ltr' id='par_1_13' title="bbox 483 4375 4014 4465">
-     <span class='ocr_line' id='line_1_24' title="bbox 483 4375 4014 4465; baseline 0 -22"><span class='ocrx_word' id='word_1_209' title='bbox 483 4376 698 4444; x_wconf 91' lang='ita'>2147.</span> <span class='ocrx_word' id='word_1_210' title='bbox 732 4377 1013 4444; x_wconf 79' lang='ita' dir='ltr'>BALBO</span> <span class='ocrx_word' id='word_1_211' title='bbox 1038 4375 1505 4457; x_wconf 90' lang='ita' dir='ltr'>Bernardino,</span> <span class='ocrx_word' id='word_1_212' title='bbox 1540 4375 1839 4444; x_wconf 90' lang='ita' dir='ltr'>Scamili</span> <span class='ocrx_word' id='word_1_213' title='bbox 1869 4375 2179 4465; x_wconf 91' lang='ita' dir='ltr'>impares</span> <span class='ocrx_word' id='word_1_214' title='bbox 2210 4375 2616 4457; x_wconf 90' lang='ita' dir='ltr'>vitruviani,</span> <span class='ocrx_word' id='word_1_215' title='bbox 2648 4376 3022 4465; x_wconf 85' lang='ita' dir='ltr'>Augustae</span> <span class='ocrx_word' id='word_1_216' title='bbox 3051 4375 3582 4444; x_wconf 89' lang='ita' dir='ltr'>vùidelicorum</span> <span class='ocrx_word' id='word_1_217' title='bbox 3619 4375 3805 4444; x_wconf 98' lang='ita'>1612</span> <span class='ocrx_word' id='word_1_218' title='bbox 3835 4375 3909 4443; x_wconf 89' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_219' title='bbox 3937 4376 4014 4443; x_wconf 99' lang='ita'>4-</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_14' title="bbox 483 4586 4488 4676">
-    <p class='ocr_par' dir='ltr' id='par_1_14' title="bbox 483 4586 4488 4676">
-     <span class='ocr_line' id='line_1_25' title="bbox 483 4586 4488 4676; baseline 0 -22"><span class='ocrx_word' id='word_1_220' title='bbox 483 4587 698 4655; x_wconf 99' lang='ita'>2148.</span> <span class='ocrx_word' id='word_1_221' title='bbox 735 4588 1013 4655; x_wconf 87' lang='ita' dir='ltr'>BASAN</span> <span class='ocrx_word' id='word_1_222' title='bbox 1038 4588 1136 4668; x_wconf 98' lang='ita' dir='ltr'>F.,</span> <span class='ocrx_word' id='word_1_223' title='bbox 1172 4586 1667 4655; x_wconf 90' lang='ita' dir='ltr'>Dictionnaire</span> <span class='ocrx_word' id='word_1_224' title='bbox 1700 4586 1826 4655; x_wconf 93' lang='ita' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_225' title='bbox 1861 4608 2198 4676; x_wconf 90' lang='ita' dir='ltr'>graveurs</span> <span class='ocrx_word' id='word_1_226' title='bbox 2234 4586 2526 4655; x_wconf 91' lang='ita' dir='ltr'>anciens</span> <span class='ocrx_word' id='word_1_227' title='bbox 2561 4597 2630 4655; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_228' title='bbox 2660 4586 3042 4655; x_wconf 90' lang='ita' dir='ltr'>modernes</span> <span class='ocrx_word' id='word_1_229' title='bbox 3077 4586 3266 4655; x_wconf 77' lang='ita' dir='ltr'>deux</span> <span class='ocrx_word' id='word_1_230' title='bbox 3298 4586 3442 4655; x_wconf 97' lang='ita' dir='ltr'>vol.</span> <span class='ocrx_word' id='word_1_231' title='bbox 3479 4608 3568 4655; x_wconf 95' lang='ita' dir='ltr'>en</span> <span class='ocrx_word' id='word_1_232' title='bbox 3599 4608 3696 4655; x_wconf 95' lang='ita' dir='ltr'>un</span> <span class='ocrx_word' id='word_1_233' title='bbox 3728 4586 3898 4668; x_wconf 97' lang='ita' dir='ltr'>vol.,</span> <span class='ocrx_word' id='word_1_234' title='bbox 3933 4586 4127 4655; x_wconf 90' lang='ita' dir='ltr'>Paris</span> <span class='ocrx_word' id='word_1_235' title='bbox 4170 4587 4378 4668; x_wconf 90' lang='ita'>1789,</span> <span class='ocrx_word' id='word_1_236' title='bbox 4414 4586 4488 4654; x_wconf 90' lang='ita' dir='ltr'>in</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_15' title="bbox 713 4701 2880 4887">
-    <p class='ocr_par' dir='ltr' id='par_1_15' title="bbox 713 4701 2880 4887">
-     <span class='ocr_line' id='line_1_26' title="bbox 713 4701 1113 4791; baseline -0.003 -21"><span class='ocrx_word' id='word_1_237' title='bbox 713 4712 957 4770; x_wconf 90' lang='ita' dir='ltr'>ottavo</span> <span class='ocrx_word' id='word_1_238' title='bbox 987 4701 1113 4791; x_wconf 85' lang='ita' dir='ltr'>fig.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_27' title="bbox 714 4812 2880 4887; baseline 0 -18"><span class='ocrx_word' id='word_1_239' title='bbox 714 4812 943 4870; x_wconf 90' lang='ita' dir='ltr'>Sonovi</span> <span class='ocrx_word' id='word_1_240' title='bbox 968 4813 1154 4870; x_wconf 95' lang='ita' dir='ltr'>molte</span> <span class='ocrx_word' id='word_1_241' title='bbox 1178 4812 1513 4870; x_wconf 95' lang='ita' dir='ltr'>imitazioni</span> <span class='ocrx_word' id='word_1_242' title='bbox 1538 4831 1571 4870; x_wconf 99' lang='ita' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_243' title='bbox 1598 4821 1827 4887; x_wconf 95' lang='ita' dir='ltr'>stampe</span> <span class='ocrx_word' id='word_1_244' title='bbox 1852 4812 1913 4870; x_wconf 99' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_245' title='bbox 1939 4812 2105 4870; x_wconf 97' lang='ita' dir='ltr'>vario</span> <span class='ocrx_word' id='word_1_246' title='bbox 2133 4812 2265 4870; x_wconf 95' lang='ita' dir='ltr'>stile</span> <span class='ocrx_word' id='word_1_247' title='bbox 2292 4812 2503 4870; x_wconf 95' lang='ita' dir='ltr'>situate</span> <span class='ocrx_word' id='word_1_248' title='bbox 2529 4812 2619 4870; x_wconf 84' lang='ita' dir='ltr'>fra</span> <span class='ocrx_word' id='word_1_249' title='bbox 2641 4812 2684 4869; x_wconf 99' lang='ita' dir='ltr'>il</span> <span class='ocrx_word' id='word_1_250' title='bbox 2709 4821 2880 4870; x_wconf 95' lang='ita' dir='ltr'>testo.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_16' title="bbox 471 5008 4487 5443">
-    <p class='ocr_par' dir='ltr' id='par_1_16' title="bbox 471 5008 4487 5443">
-     <span class='ocr_line' id='line_1_28' title="bbox 471 5008 4486 5098; baseline 0 -22"><span class='ocrx_word' id='word_1_251' title='bbox 471 5009 686 5078; x_wconf 90' lang='ita'>2149.</span> <span class='ocrx_word' id='word_1_252' title='bbox 747 5010 1018 5077; x_wconf 88' lang='ita' dir='ltr'>BOBEL</span> <span class='ocrx_word' id='word_1_253' title='bbox 1067 5010 1165 5090; x_wconf 91' lang='ita' dir='ltr'>P.,</span> <span class='ocrx_word' id='word_1_254' title='bbox 1225 5009 1484 5077; x_wconf 85' lang='ita' dir='ltr'>Trésor</span> <span class='ocrx_word' id='word_1_255' title='bbox 1540 5008 1629 5077; x_wconf 97' lang='ita' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_256' title='bbox 1685 5008 2107 5077; x_wconf 91' lang='ita' dir='ltr'>recherches</span> <span class='ocrx_word' id='word_1_257' title='bbox 2167 5019 2236 5077; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_258' title='bbox 2292 5008 2674 5098; x_wconf 85' lang='ita' dir='ltr'>antiquités</span> <span class='ocrx_word' id='word_1_259' title='bbox 2733 5008 3098 5098; x_wconf 90' lang='ita' dir='ltr'>gauloises</span> <span class='ocrx_word' id='word_1_260' title='bbox 3157 5019 3226 5077; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_261' title='bbox 3281 5008 3704 5097; x_wconf 74' lang='ita' dir='ltr'>francoises,</span> <span class='ocrx_word' id='word_1_262' title='bbox 3763 5008 4074 5077; x_wconf 85' lang='ita' dir='ltr'>réduites</span> <span class='ocrx_word' id='word_1_263' title='bbox 4134 5030 4223 5077; x_wconf 95' lang='ita' dir='ltr'>en</span> <span class='ocrx_word' id='word_1_264' title='bbox 4280 5008 4486 5077; x_wconf 92' lang='ita' dir='ltr'>ordre</span> 
-     </span>
-     <span class='ocr_line' id='line_1_29' title="bbox 714 5123 1917 5213; baseline -0.001 -21"><span class='ocrx_word' id='word_1_265' title='bbox 714 5123 1239 5213; x_wconf 90' lang='ita' dir='ltr'>alphabetique,</span> <span class='ocrx_word' id='word_1_266' title='bbox 1272 5123 1466 5192; x_wconf 90' lang='ita' dir='ltr'>Paris</span> <span class='ocrx_word' id='word_1_267' title='bbox 1506 5123 1714 5205; x_wconf 98' lang='ita'>1655,</span> <span class='ocrx_word' id='word_1_268' title='bbox 1748 5123 1822 5191; x_wconf 90' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_269' title='bbox 1850 5124 1917 5192; x_wconf 99' lang='ita'>4.</span> 
-     </span>
-     <span class='ocr_line' id='line_1_30' title="bbox 705 5238 4487 5328; baseline 0 -22"><span class='ocrx_word' id='word_1_270' title='bbox 705 5281 804 5286; x_wconf 98' lang='ita'><strong>—</strong></span> <span class='ocrx_word' id='word_1_271' title='bbox 844 5238 1172 5307; x_wconf 86' lang='ita' dir='ltr'>Accedit:</span> <span class='ocrx_word' id='word_1_272' title='bbox 1221 5240 1334 5307; x_wconf 95' lang='ita' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_273' title='bbox 1376 5238 1763 5307; x_wconf 91' lang='ita' dir='ltr'>verborum</span> <span class='ocrx_word' id='word_1_274' title='bbox 1804 5238 2373 5307; x_wconf 90' lang='ita' dir='ltr'>vitruvianorum</span> <span class='ocrx_word' id='word_1_275' title='bbox 2417 5238 2954 5328; x_wconf 85' lang='ita' dir='ltr'>significatione</span> <span class='ocrx_word' id='word_1_276' title='bbox 2997 5249 3066 5307; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_277' title='bbox 3106 5238 3254 5307; x_wconf 90' lang='ita' dir='ltr'>vita</span> <span class='ocrx_word' id='word_1_278' title='bbox 3294 5238 3606 5307; x_wconf 90' lang='ita' dir='ltr'>Vitruvii</span> <span class='ocrx_word' id='word_1_279' title='bbox 3651 5238 3913 5307; x_wconf 94' lang='ita' dir='ltr'>eodem</span> <span class='ocrx_word' id='word_1_280' title='bbox 3956 5249 4244 5307; x_wconf 90' lang='ita' dir='ltr'>auctore</span> <span class='ocrx_word' id='word_1_281' title='bbox 4287 5249 4356 5307; x_wconf 97' lang='ita' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_282' title='bbox 4397 5238 4487 5307; x_wconf 98' lang='ita' dir='ltr'>de</span> 
-     </span>
-     <span class='ocr_line' id='line_1_31' title="bbox 712 5353 2399 5443; baseline 0 -21"><span class='ocrx_word' id='word_1_283' title='bbox 712 5353 1111 5422; x_wconf 90' lang='ita' dir='ltr'>macueulis</span> <span class='ocrx_word' id='word_1_284' title='bbox 1145 5353 1519 5422; x_wconf 90' lang='ita' dir='ltr'>solaribus.</span> <span class='ocrx_word' id='word_1_285' title='bbox 1555 5354 1791 5422; x_wconf 90' lang='ita' dir='ltr'>Senza</span> <span class='ocrx_word' id='word_1_286' title='bbox 1818 5353 2040 5443; x_wconf 96' lang='ita' dir='ltr'>luogo</span> <span class='ocrx_word' id='word_1_287' title='bbox 2071 5353 2161 5422; x_wconf 97' lang='ita' dir='ltr'>ed</span> <span class='ocrx_word' id='word_1_288' title='bbox 2191 5375 2399 5422; x_wconf 90' lang='ita' dir='ltr'>anno.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_17' title="bbox 485 5564 784 5653">
-    <p class='ocr_par' dir='ltr' id='par_1_17' title="bbox 485 5564 784 5653">
-     <span class='ocr_line' id='line_1_32' title="bbox 485 5564 784 5653; baseline -0.003 -21"><span class='ocrx_word' id='word_1_289' title='bbox 485 5565 578 5653; x_wconf 91' lang='ita' dir='ltr'>[p.</span> <span class='ocrx_word' id='word_1_290' title='bbox 614 5564 784 5646; x_wconf 84' lang='ita'>372]</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_18' title="bbox 479 5774 4484 5979">
-    <p class='ocr_par' dir='ltr' id='par_1_18' title="bbox 479 5774 4484 5979">
-     <span class='ocr_line' id='line_1_33' title="bbox 479 5774 4484 5864; baseline 0 -22"><span class='ocrx_word' id='word_1_291' title='bbox 479 5774 694 5843; x_wconf 89' lang='ita'>2150.</span> <span class='ocrx_word' id='word_1_292' title='bbox 730 5775 955 5843; x_wconf 88' lang='ita' dir='ltr'>CEAN</span> <span class='ocrx_word' id='word_1_293' title='bbox 978 5774 1383 5843; x_wconf 89' lang='ita' dir='ltr'>Bermudez</span> <span class='ocrx_word' id='word_1_294' title='bbox 1415 5776 1503 5843; x_wconf 94' lang='ita' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_295' title='bbox 1537 5776 1718 5843; x_wconf 84' lang='ita' dir='ltr'>Juan</span> <span class='ocrx_word' id='word_1_296' title='bbox 1747 5774 2081 5864; x_wconf 86' lang='ita' dir='ltr'>Agostin,</span> <span class='ocrx_word' id='word_1_297' title='bbox 2115 5774 2581 5843; x_wconf 90' lang='ita' dir='ltr'>Diccionario</span> <span class='ocrx_word' id='word_1_298' title='bbox 2611 5774 2957 5843; x_wconf 91' lang='ita' dir='ltr'>historico</span> <span class='ocrx_word' id='word_1_299' title='bbox 2989 5774 3078 5843; x_wconf 97' lang='ita' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_300' title='bbox 3108 5774 3219 5843; x_wconf 93' lang='ita' dir='ltr'>los</span> <span class='ocrx_word' id='word_1_301' title='bbox 3250 5796 3405 5843; x_wconf 90' lang='ita' dir='ltr'>mas</span> <span class='ocrx_word' id='word_1_302' title='bbox 3437 5774 3747 5843; x_wconf 91' lang='ita' dir='ltr'>illustres</span> <span class='ocrx_word' id='word_1_303' title='bbox 3778 5774 4227 5864; x_wconf 85' lang='ita' dir='ltr'>professores</span> <span class='ocrx_word' id='word_1_304' title='bbox 4260 5774 4349 5843; x_wconf 97' lang='ita' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_305' title='bbox 4379 5774 4484 5843; x_wconf 90' lang='ita' dir='ltr'>las</span> 
-     </span>
-     <span class='ocr_line' id='line_1_34' title="bbox 712 5889 2960 5979; baseline 0 -22"><span class='ocrx_word' id='word_1_306' title='bbox 712 5889 955 5958; x_wconf 90' lang='ita' dir='ltr'>Bellas</span> <span class='ocrx_word' id='word_1_307' title='bbox 985 5890 1197 5958; x_wconf 86' lang='ita' dir='ltr'>Artes</span> <span class='ocrx_word' id='word_1_308' title='bbox 1229 5911 1318 5958; x_wconf 95' lang='ita' dir='ltr'>en</span> <span class='ocrx_word' id='word_1_309' title='bbox 1346 5891 1703 5979; x_wconf 90' lang='ita' dir='ltr'>Espanna,</span> <span class='ocrx_word' id='word_1_310' title='bbox 1736 5889 2028 5958; x_wconf 90' lang='ita' dir='ltr'>Madrid</span> <span class='ocrx_word' id='word_1_311' title='bbox 2065 5890 2273 5971; x_wconf 89' lang='ita'>1800,</span> <span class='ocrx_word' id='word_1_312' title='bbox 2306 5889 2380 5957; x_wconf 90' lang='ita' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_313' title='bbox 2413 5890 2475 5958; x_wconf 99' lang='ita'>8.</span> <span class='ocrx_word' id='word_1_314' title='bbox 2509 5889 2810 5958; x_wconf 91' lang='ita' dir='ltr'>Volumi</span> <span class='ocrx_word' id='word_1_315' title='bbox 2840 5891 2960 5958; x_wconf 98' lang='ita' dir='ltr'>VI.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_19' title="bbox 713 6000 3285 6075">
-    <p class='ocr_par' dir='ltr' id='par_1_19' title="bbox 713 6000 3285 6075">
-     <span class='ocr_line' id='line_1_35' title="bbox 713 6000 3285 6075; baseline -0 -17"><span class='ocrx_word' id='word_1_316' title='bbox 713 6001 914 6075; x_wconf 92' lang='ita' dir='ltr'>Opera</span> <span class='ocrx_word' id='word_1_317' title='bbox 936 6000 1288 6058; x_wconf 95' lang='ita' dir='ltr'>meritevole</span> <span class='ocrx_word' id='word_1_318' title='bbox 1313 6001 1547 6058; x_wconf 98' lang='ita' dir='ltr'>d’esser</span> <span class='ocrx_word' id='word_1_319' title='bbox 1570 6000 1923 6058; x_wconf 95' lang='ita' dir='ltr'>conosciuta</span> <span class='ocrx_word' id='word_1_320' title='bbox 1946 6001 2022 6058; x_wconf 98' lang='ita' dir='ltr'>ed</span> <span class='ocrx_word' id='word_1_321' title='bbox 2047 6000 2407 6075; x_wconf 93' lang='ita' dir='ltr'>applaudita,</span> <span class='ocrx_word' id='word_1_322' title='bbox 2433 6000 2812 6058; x_wconf 98' lang='ita' dir='ltr'>ricchissima</span> <span class='ocrx_word' id='word_1_323' title='bbox 2835 6000 2896 6058; x_wconf 99' lang='ita' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_324' title='bbox 2921 6000 3285 6075; x_wconf 96' lang='ita' dir='ltr'>cognizioni.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_20' title="bbox 471 6194 4487 6380">
-    <p class='ocr_par' dir='ltr' id='par_1_20' title="bbox 471 6194 4487 6380">
-     <span class='ocr_line' id='line_1_36' title="bbox 471 6194 4487 6286; baseline 0 -22"><span class='ocrx_word' id='word_1_325' title='bbox 471 6196 686 6265; x_wconf 99' lang='ita'>2151.</span> <span class='ocrx_word' id='word_1_326' title='bbox 730 6194 1142 6278; x_wconf 85' lang='ita' dir='ltr'>CHOMPRÉ,</span> <span class='ocrx_word' id='word_1_327' title='bbox 1179 6196 1675 6265; x_wconf 90' lang='ita' dir='ltr'>Dictionnaire</span> <span class='ocrx_word' id='word_1_328' title='bbox 1715 6196 1976 6286; x_wconf 85' lang='ita' dir='ltr'>abrégé</span> <span class='ocrx_word' id='word_1_329' title='bbox 2015 6196 2104 6265; x_wconf 97' lang='ita' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_330' title='bbox 2142 6196 2212 6265; x_wconf 91' lang='ita' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_331' title='bbox 2249 6196 2444 6265; x_wconf 85' lang='ita' dir='ltr'>fable</span> <span class='ocrx_word' id='word_1_332' title='bbox 2483 6218 2665 6286; x_wconf 90' lang='ita' dir='ltr'>pour</span> <span class='ocrx_word' id='word_1_333' title='bbox 2701 6196 3224 6286; x_wconf 91' lang='ita' dir='ltr'>l’intelligence</span> <span class='ocrx_word' id='word_1_334' title='bbox 3263 6196 3390 6265; x_wconf 93' lang='ita' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_335' title='bbox 3429 6197 3680 6286; x_wconf 85' lang='ita' dir='ltr'>poétes</span> <span class='ocrx_word' id='word_1_336' title='bbox 3721 6207 3878 6278; x_wconf 96' lang='ita' dir='ltr'>etc.,</span> <span class='ocrx_word' id='word_1_337' title='bbox 3920 6196 4115 6265; x_wconf 90' lang='ita' dir='ltr'>Paris</span> <span class='ocrx_word' id='word_1_338' title='bbox 4164 6197 4372 6278; x_wconf 89' lang='ita'>1798,</span> <span class='ocrx_word' id='word_1_339' title='bbox 4414 6196 4487 6264; x_wconf 90' lang='ita' dir='ltr'>in</span> 
-     </span>
-     <span class='ocr_line' id='line_1_37' title="bbox 721 6312 828 6380; baseline 0.009 -1"><span class='ocrx_word' id='word_1_340' title='bbox 721 6312 828 6380; x_wconf 98' lang='ita'>12.</span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_21' title="bbox 521 6604 4439 6608">
-    <p class='ocr_par' dir='ltr' id='par_1_21' title="bbox 521 6604 4439 6608">
-     <span class='ocr_line' id='line_1_38' title="bbox 521 6604 4439 6608; baseline 0 0"><span class='ocrx_word' id='word_1_341' title='bbox 521 6604 4439 6608; x_wconf 95' lang='ita' dir='ltr'> </span> 
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_22' title="bbox 2171 6637 2791 6710">
-    <p class='ocr_par' dir='ltr' id='par_1_22' title="bbox 2171 6637 2791 6710">
-     <span class='ocr_line' id='line_1_39' title="bbox 2171 6637 2791 6710; baseline 0 -16"><span class='ocrx_word' id='word_1_342' title='bbox 2171 6657 2347 6694; x_wconf 88' lang='ita' dir='ltr'>WWW.</span> <span class='ocrx_word' id='word_1_343' title='bbox 2358 6637 2734 6710; x_wconf 78' lang='ita' dir='ltr'>memofonte.</span> <span class='ocrx_word' id='word_1_344' title='bbox 2748 6639 2791 6694; x_wconf 77' lang='ita' dir='ltr'>il</span> 
-     </span>
-    </p>
-   </div>
-  </div>
- </body>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="ocr-system" content="tesseract 3.04.00" />
+    <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word" />
+  </head>
+  <body>
+    <div class="ocr_page" id="page_1" title="image &quot;tess/page255.tif&quot;; bbox 0 0 4958 7017; ppageno 0">
+      <div class="ocr_carea" id="block_1_1" title="bbox 2171 398 2776 850">
+        <p class="ocr_par" dir="ltr" id="par_1_1" title="bbox 2171 398 2776 850">
+          <span class="ocr_line" id="line_1_1" title="bbox 2171 398 2776 850; baseline 0 6167">
+            <span class="ocrx_word" id="word_1_1" title="bbox 2171 398 2776 850; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita"> </span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_2" title="bbox 1390 864 3571 1035">
+        <p class="ocr_par" dir="ltr" id="par_1_2" title="bbox 1390 864 3571 1035">
+          <span class="ocr_line" id="line_1_2" title="bbox 1981 864 2976 922; baseline 0.001 -1">
+            <span class="ocrx_word" id="word_1_2" title="bbox 1981 864 2366 922; x_wconf 80" lang="ita" dir="ltr" xml:lang="ita">Fondazione</span>
+            <span class="ocrx_word" id="word_1_3" title="bbox 2390 864 2775 922; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">Memofonte</span>
+            <span class="ocrx_word" id="word_1_4" title="bbox 2800 865 2976 922; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">onlus</span>
+          </span>
+          <span class="ocr_line" id="line_1_3" title="bbox 1390 960 3571 1035; baseline 0 -17">
+            <span class="ocrx_word" id="word_1_5" title="bbox 1390 960 1600 1018; x_wconf 89" lang="ita" dir="ltr" xml:lang="ita">Studio</span>
+            <span class="ocrx_word" id="word_1_6" title="bbox 1624 979 1731 1035; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">per</span>
+            <span class="ocrx_word" id="word_1_7" title="bbox 1754 960 2226 1018; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">l’elaborazione</span>
+            <span class="ocrx_word" id="word_1_8" title="bbox 2250 960 2632 1018; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">informatica</span>
+            <span class="ocrx_word" id="word_1_9" title="bbox 2655 961 2813 1018; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">delle</span>
+            <span class="ocrx_word" id="word_1_10" title="bbox 2838 960 2991 1018; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">fonti</span>
+            <span class="ocrx_word" id="word_1_11" title="bbox 3018 960 3571 1018; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">storico—artistiche</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_3" title="bbox 472 1119 4264 1123">
+        <p class="ocr_par" dir="ltr" id="par_1_3" title="bbox 472 1119 4264 1123">
+          <span class="ocr_line" id="line_1_4" title="bbox 472 1119 4264 1123; baseline 0 0">
+            <span class="ocrx_word" id="word_1_12" title="bbox 472 1119 4264 1123; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita"> </span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_4" title="bbox 712 1251 2408 1437">
+        <p class="ocr_par" dir="ltr" id="par_1_4" title="bbox 712 1251 2408 1437">
+          <span class="ocr_line" id="line_1_5" title="bbox 712 1251 989 1320; baseline 0.004 -1">
+            <span class="ocrx_word" id="word_1_13" title="bbox 712 1251 989 1320; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">formis.</span>
+          </span>
+          <span class="ocr_line" id="line_1_6" title="bbox 713 1362 2408 1437; baseline 0 -17">
+            <span class="ocrx_word" id="word_1_14" title="bbox 713 1363 942 1434; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">Questo</span>
+            <span class="ocrx_word" id="word_1_15" title="bbox 969 1363 1214 1420; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">volume</span>
+            <span class="ocrx_word" id="word_1_16" title="bbox 1238 1363 1397 1420; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">nelle</span>
+            <span class="ocrx_word" id="word_1_17" title="bbox 1424 1362 1510 1420; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">sei</span>
+            <span class="ocrx_word" id="word_1_18" title="bbox 1535 1381 1717 1437; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">opere</span>
+            <span class="ocrx_word" id="word_1_19" title="bbox 1742 1362 2019 1420; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">contiene</span>
+            <span class="ocrx_word" id="word_1_20" title="bbox 2043 1363 2244 1420; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">tavole</span>
+            <span class="ocrx_word" id="word_1_21" title="bbox 2276 1363 2408 1420; x_wconf 83" lang="ita" xml:lang="ita">133.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_5" title="bbox 475 1558 3614 1744">
+        <p class="ocr_par" dir="ltr" id="par_1_5" title="bbox 475 1558 3614 1744">
+          <span class="ocr_line" id="line_1_7" title="bbox 475 1558 3614 1648; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_22" title="bbox 475 1559 690 1627; x_wconf 88" lang="ita" xml:lang="ita">2142.</span>
+            <span class="ocrx_word" id="word_1_23" title="bbox 724 1560 915 1627; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">VITE</span>
+            <span class="ocrx_word" id="word_1_24" title="bbox 940 1580 979 1627; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_25" title="bbox 1007 1558 1253 1627; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">ritratti</span>
+            <span class="ocrx_word" id="word_1_26" title="bbox 1284 1558 1623 1627; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">d’illustri</span>
+            <span class="ocrx_word" id="word_1_27" title="bbox 1654 1558 1952 1640; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Italiani,</span>
+            <span class="ocrx_word" id="word_1_28" title="bbox 1985 1558 2296 1640; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">Padova,</span>
+            <span class="ocrx_word" id="word_1_29" title="bbox 2330 1558 2749 1648; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">Tipografia</span>
+            <span class="ocrx_word" id="word_1_30" title="bbox 2777 1558 3088 1640; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Bettoni,</span>
+            <span class="ocrx_word" id="word_1_31" title="bbox 3130 1559 3316 1627; x_wconf 88" lang="ita" xml:lang="ita">1812</span>
+            <span class="ocrx_word" id="word_1_32" title="bbox 3347 1580 3386 1627; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_33" title="bbox 3418 1580 3614 1648; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">segg.</span>
+          </span>
+          <span class="ocr_line" id="line_1_8" title="bbox 713 1669 1832 1744; baseline -0.001 -17">
+            <span class="ocrx_word" id="word_1_34" title="bbox 713 1670 930 1744; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">Opera,</span>
+            <span class="ocrx_word" id="word_1_35" title="bbox 958 1669 1069 1727; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">che</span>
+            <span class="ocrx_word" id="word_1_36" title="bbox 1096 1678 1184 1727; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">sta</span>
+            <span class="ocrx_word" id="word_1_37" title="bbox 1205 1669 1670 1744; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">pubblicandosi</span>
+            <span class="ocrx_word" id="word_1_38" title="bbox 1694 1669 1757 1726; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_39" title="bbox 1780 1670 1832 1727; x_wconf 92" lang="ita" xml:lang="ita">4.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_6" title="bbox 473 1866 766 1955">
+        <p class="ocr_par" dir="ltr" id="par_1_6" title="bbox 473 1866 766 1955">
+          <span class="ocr_line" id="line_1_9" title="bbox 473 1866 766 1955; baseline -0.003 -21">
+            <span class="ocrx_word" id="word_1_40" title="bbox 473 1867 566 1955; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">[p.</span>
+            <span class="ocrx_word" id="word_1_41" title="bbox 597 1866 766 1948; x_wconf 84" lang="ita" xml:lang="ita">371]</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_7" title="bbox 467 2075 4488 2436">
+        <p class="ocr_par" dir="ltr" id="par_1_7" title="bbox 467 2075 4488 2436">
+          <span class="ocr_line" id="line_1_10" title="bbox 467 2075 3632 2165; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_42" title="bbox 467 2076 682 2144; x_wconf 86" lang="ita" xml:lang="ita">2143.</span>
+            <span class="ocrx_word" id="word_1_43" title="bbox 711 2077 1081 2143; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">RITRATTI</span>
+            <span class="ocrx_word" id="word_1_44" title="bbox 1105 2075 1444 2144; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">d’illustri</span>
+            <span class="ocrx_word" id="word_1_45" title="bbox 1475 2075 1752 2144; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Italiani</span>
+            <span class="ocrx_word" id="word_1_46" title="bbox 1782 2075 2077 2157; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">viventi,</span>
+            <span class="ocrx_word" id="word_1_47" title="bbox 2110 2075 2421 2157; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">Padova,</span>
+            <span class="ocrx_word" id="word_1_48" title="bbox 2453 2075 2841 2165; x_wconf 80" lang="ita" dir="ltr" xml:lang="ita">tipografia</span>
+            <span class="ocrx_word" id="word_1_49" title="bbox 2869 2075 3180 2157; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Bettoni,</span>
+            <span class="ocrx_word" id="word_1_50" title="bbox 3222 2075 3430 2157; x_wconf 98" lang="ita" xml:lang="ita">1815,</span>
+            <span class="ocrx_word" id="word_1_51" title="bbox 3463 2075 3537 2143; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_52" title="bbox 3565 2076 3632 2144; x_wconf 92" lang="ita" xml:lang="ita">4.</span>
+          </span>
+          <span class="ocr_line" id="line_1_11" title="bbox 736 2186 4488 2261; baseline 0 -17">
+            <span class="ocrx_word" id="word_1_53" title="bbox 736 2188 822 2244; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">La</span>
+            <span class="ocrx_word" id="word_1_54" title="bbox 853 2186 1047 2261; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">prima</span>
+            <span class="ocrx_word" id="word_1_55" title="bbox 1080 2186 1141 2244; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_56" title="bbox 1176 2195 1385 2261; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">queste</span>
+            <span class="ocrx_word" id="word_1_57" title="bbox 1420 2187 1536 2244; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">due</span>
+            <span class="ocrx_word" id="word_1_58" title="bbox 1571 2205 1753 2261; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">opere</span>
+            <span class="ocrx_word" id="word_1_59" title="bbox 1787 2186 1849 2243; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_60" title="bbox 1882 2186 2128 2261; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">ispecie,</span>
+            <span class="ocrx_word" id="word_1_61" title="bbox 2166 2186 2278 2244; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">che</span>
+            <span class="ocrx_word" id="word_1_62" title="bbox 2311 2186 2698 2261; x_wconf 82" lang="ita" dir="ltr" xml:lang="ita">progredisce</span>
+            <span class="ocrx_word" id="word_1_63" title="bbox 2734 2187 2789 2244; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">al</span>
+            <span class="ocrx_word" id="word_1_64" title="bbox 2826 2205 2934 2244; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">suo</span>
+            <span class="ocrx_word" id="word_1_65" title="bbox 2969 2186 3238 2254; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">termine,</span>
+            <span class="ocrx_word" id="word_1_66" title="bbox 3276 2187 3643 2261; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">comprende</span>
+            <span class="ocrx_word" id="word_1_67" title="bbox 3677 2205 3797 2244; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">una</span>
+            <span class="ocrx_word" id="word_1_68" title="bbox 3832 2186 3983 2244; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">serie</span>
+            <span class="ocrx_word" id="word_1_69" title="bbox 4018 2186 4079 2244; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_70" title="bbox 4115 2186 4193 2244; x_wconf 90" lang="ita" xml:lang="ita">60</span>
+            <span class="ocrx_word" id="word_1_71" title="bbox 4227 2186 4488 2261; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">preziosi</span>
+          </span>
+          <span class="ocr_line" id="line_1_12" title="bbox 726 2282 4486 2357; baseline 0 -17">
+            <span class="ocrx_word" id="word_1_72" title="bbox 726 2282 932 2340; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">ritratti</span>
+            <span class="ocrx_word" id="word_1_73" title="bbox 963 2282 1255 2357; x_wconf 82" lang="ita" dir="ltr" xml:lang="ita">intagliati</span>
+            <span class="ocrx_word" id="word_1_74" title="bbox 1287 2301 1320 2340; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_75" title="bbox 1352 2282 1649 2357; x_wconf 89" lang="ita" dir="ltr" xml:lang="ita">disegnati</span>
+            <span class="ocrx_word" id="word_1_76" title="bbox 1681 2283 1777 2340; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">da’</span>
+            <span class="ocrx_word" id="word_1_77" title="bbox 1814 2282 1992 2357; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">primi</span>
+            <span class="ocrx_word" id="word_1_78" title="bbox 2025 2282 2210 2340; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">artisti</span>
+            <span class="ocrx_word" id="word_1_79" title="bbox 2243 2282 2487 2350; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">viventi,</span>
+            <span class="ocrx_word" id="word_1_80" title="bbox 2522 2283 2782 2340; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">essendo</span>
+            <span class="ocrx_word" id="word_1_81" title="bbox 2815 2283 2871 2340; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">le</span>
+            <span class="ocrx_word" id="word_1_82" title="bbox 2903 2282 3194 2340; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">memorie</span>
+            <span class="ocrx_word" id="word_1_83" title="bbox 3228 2282 3490 2340; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">storione</span>
+            <span class="ocrx_word" id="word_1_84" title="bbox 3522 2291 3717 2340; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">estese</span>
+            <span class="ocrx_word" id="word_1_85" title="bbox 3750 2283 3845 2340; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">da’</span>
+            <span class="ocrx_word" id="word_1_86" title="bbox 3882 2282 3987 2357; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">più</span>
+            <span class="ocrx_word" id="word_1_87" title="bbox 4018 2282 4204 2340; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">chiari</span>
+            <span class="ocrx_word" id="word_1_88" title="bbox 4236 2282 4486 2340; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">letterati</span>
+          </span>
+          <span class="ocr_line" id="line_1_13" title="bbox 728 2379 1077 2436; baseline 0 0">
+            <span class="ocrx_word" id="word_1_89" title="bbox 728 2379 826 2436; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">del</span>
+            <span class="ocrx_word" id="word_1_90" title="bbox 853 2379 1077 2436; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">secolo.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_8" title="bbox 488 2574 4125 2655">
+        <p class="ocr_par" dir="ltr" id="par_1_8" title="bbox 488 2574 4125 2655">
+          <span class="ocr_line" id="line_1_14" title="bbox 488 2574 4125 2655; baseline 0 -13">
+            <span class="ocrx_word" id="word_1_91" title="bbox 488 2575 703 2643; x_wconf 92" lang="ita" xml:lang="ita">2144.</span>
+            <span class="ocrx_word" id="word_1_92" title="bbox 737 2576 849 2643; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">De</span>
+            <span class="ocrx_word" id="word_1_93" title="bbox 878 2576 1033 2643; x_wconf 94" lang="ita" dir="ltr" xml:lang="ita">Vos</span>
+            <span class="ocrx_word" id="word_1_94" title="bbox 1063 2574 1402 2643; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">Martino.</span>
+            <span class="ocrx_word" id="word_1_95" title="bbox 1436 2574 1626 2643; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">Vedi</span>
+            <span class="ocrx_word" id="word_1_96" title="bbox 1660 2574 2057 2644; x_wconf 80" lang="ita" dir="ltr" xml:lang="ita">0raculum</span>
+            <span class="ocrx_word" id="word_1_97" title="bbox 2086 2574 2697 2655; x_wconf 80" lang="ita" dir="ltr" xml:lang="ita">anachoreticum,</span>
+            <span class="ocrx_word" id="word_1_98" title="bbox 2742 2577 2914 2655; x_wconf 82" lang="ita" dir="ltr" xml:lang="ita">Vita,</span>
+            <span class="ocrx_word" id="word_1_99" title="bbox 2951 2577 3215 2643; x_wconf 83" lang="ita" dir="ltr" xml:lang="ita">Passio</span>
+            <span class="ocrx_word" id="word_1_100" title="bbox 3246 2588 3316 2643; x_wconf 81" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_101" title="bbox 3339 2577 3804 2643; x_wconf 80" lang="ita" dir="ltr" xml:lang="ita">Resurrectio</span>
+            <span class="ocrx_word" id="word_1_102" title="bbox 3839 2574 4125 2644; x_wconf 79" lang="ita" dir="ltr" xml:lang="ita">Christi.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_9" title="bbox 1801 2985 3396 3077">
+        <p class="ocr_par" dir="ltr" id="par_1_9" title="bbox 1801 2985 3396 3077">
+          <span class="ocr_line" id="line_1_15" title="bbox 1801 2985 3396 3077; baseline 0 -2">
+            <span class="ocrx_word" id="word_1_103" title="bbox 1801 2985 2485 3077; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">DIZIONARI</span>
+            <span class="ocrx_word" id="word_1_104" title="bbox 2523 2987 2600 3075; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">E</span>
+            <span class="ocrx_word" id="word_1_105" title="bbox 2637 2985 3396 3077; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">ABECEDARI</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_10" title="bbox 479 3321 4061 3507">
+        <p class="ocr_par" dir="ltr" id="par_1_10" title="bbox 479 3321 4061 3507">
+          <span class="ocr_line" id="line_1_16" title="bbox 479 3321 4061 3411; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_106" title="bbox 479 3321 694 3390; x_wconf 99" lang="ita" xml:lang="ita">2145.</span>
+            <span class="ocrx_word" id="word_1_107" title="bbox 727 3322 1021 3403; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">AQUINI</span>
+            <span class="ocrx_word" id="word_1_108" title="bbox 1044 3321 1311 3403; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Caroli,</span>
+            <span class="ocrx_word" id="word_1_109" title="bbox 1344 3321 1912 3390; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Vocabularium</span>
+            <span class="ocrx_word" id="word_1_110" title="bbox 1939 3321 2480 3390; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">Architecturae</span>
+            <span class="ocrx_word" id="word_1_111" title="bbox 2512 3321 3070 3403; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">aedificatoriae,</span>
+            <span class="ocrx_word" id="word_1_112" title="bbox 3103 3323 3403 3403; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Romae,</span>
+            <span class="ocrx_word" id="word_1_113" title="bbox 3445 3322 3654 3403; x_wconf 88" lang="ita" xml:lang="ita">1784,</span>
+            <span class="ocrx_word" id="word_1_114" title="bbox 3687 3321 3761 3389; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_115" title="bbox 3790 3332 4061 3411; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">quarto.</span>
+          </span>
+          <span class="ocr_line" id="line_1_17" title="bbox 713 3432 3441 3507; baseline 0 -17">
+            <span class="ocrx_word" id="word_1_116" title="bbox 713 3433 914 3507; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">Opera</span>
+            <span class="ocrx_word" id="word_1_117" title="bbox 937 3433 1265 3490; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">eccellente</span>
+            <span class="ocrx_word" id="word_1_118" title="bbox 1288 3451 1395 3507; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">per</span>
+            <span class="ocrx_word" id="word_1_119" title="bbox 1418 3432 1681 3490; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">l’analisi</span>
+            <span class="ocrx_word" id="word_1_120" title="bbox 1707 3432 1818 3490; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">che</span>
+            <span class="ocrx_word" id="word_1_121" title="bbox 1843 3432 2019 3490; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">viene</span>
+            <span class="ocrx_word" id="word_1_122" title="bbox 2045 3432 2190 3490; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">fatta</span>
+            <span class="ocrx_word" id="word_1_123" title="bbox 2213 3433 2373 3490; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">della</span>
+            <span class="ocrx_word" id="word_1_124" title="bbox 2398 3432 2859 3507; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">signiﬁcazione</span>
+            <span class="ocrx_word" id="word_1_125" title="bbox 2884 3432 3097 3507; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">d’ogni</span>
+            <span class="ocrx_word" id="word_1_126" title="bbox 3122 3433 3441 3490; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">vocabolo.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_11" title="bbox 471 3628 4488 3948">
+        <p class="ocr_par" dir="ltr" id="par_1_11" title="bbox 471 3628 4488 3948">
+          <span class="ocr_line" id="line_1_18" title="bbox 471 3628 4486 3718; baseline 0 -21">
+            <span class="ocrx_word" id="word_1_127" title="bbox 471 3628 686 3697; x_wconf 98" lang="ita" xml:lang="ita">2146.</span>
+            <span class="ocrx_word" id="word_1_128" title="bbox 723 3630 1222 3697; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">BALDINUCCI</span>
+            <span class="ocrx_word" id="word_1_129" title="bbox 1247 3628 1554 3718; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Filippo,</span>
+            <span class="ocrx_word" id="word_1_130" title="bbox 1590 3628 2079 3697; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">Vocabolario</span>
+            <span class="ocrx_word" id="word_1_131" title="bbox 2111 3639 2412 3697; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">toscano</span>
+            <span class="ocrx_word" id="word_1_132" title="bbox 2446 3628 2774 3697; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">dell’arte</span>
+            <span class="ocrx_word" id="word_1_133" title="bbox 2807 3628 2925 3697; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">del</span>
+            <span class="ocrx_word" id="word_1_134" title="bbox 2958 3628 3262 3718; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">disegno</span>
+            <span class="ocrx_word" id="word_1_135" title="bbox 3295 3628 3414 3697; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">nel</span>
+            <span class="ocrx_word" id="word_1_136" title="bbox 3446 3628 3659 3718; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">quale</span>
+            <span class="ocrx_word" id="word_1_137" title="bbox 3694 3628 3753 3697; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">si</span>
+            <span class="ocrx_word" id="word_1_138" title="bbox 3787 3628 4158 3718; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">esplicano</span>
+            <span class="ocrx_word" id="word_1_139" title="bbox 4191 3628 4214 3696; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">i</span>
+            <span class="ocrx_word" id="word_1_140" title="bbox 4246 3628 4486 3718; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">propri</span>
+          </span>
+          <span class="ocr_line" id="line_1_19" title="bbox 711 3743 4488 3833; baseline 0 -21">
+            <span class="ocrx_word" id="word_1_141" title="bbox 711 3743 996 3812; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">termini</span>
+            <span class="ocrx_word" id="word_1_142" title="bbox 1037 3765 1076 3812; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_143" title="bbox 1115 3743 1283 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">voci</span>
+            <span class="ocrx_word" id="word_1_144" title="bbox 1323 3765 1469 3812; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">non</span>
+            <span class="ocrx_word" id="word_1_145" title="bbox 1511 3743 1670 3812; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">solo</span>
+            <span class="ocrx_word" id="word_1_146" title="bbox 1712 3743 1903 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">della</span>
+            <span class="ocrx_word" id="word_1_147" title="bbox 1939 3743 2218 3833; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">pittura,</span>
+            <span class="ocrx_word" id="word_1_148" title="bbox 2264 3743 2576 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">scultura</span>
+            <span class="ocrx_word" id="word_1_149" title="bbox 2615 3754 2684 3812; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_150" title="bbox 2724 3743 3174 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">architettura</span>
+            <span class="ocrx_word" id="word_1_151" title="bbox 3212 3765 3332 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">ma</span>
+            <span class="ocrx_word" id="word_1_152" title="bbox 3372 3765 3634 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">ancora</span>
+            <span class="ocrx_word" id="word_1_153" title="bbox 3672 3743 3745 3812; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_154" title="bbox 3787 3743 3958 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">altre</span>
+            <span class="ocrx_word" id="word_1_155" title="bbox 4000 3743 4126 3812; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">arti</span>
+            <span class="ocrx_word" id="word_1_156" title="bbox 4168 3765 4208 3812; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">a</span>
+            <span class="ocrx_word" id="word_1_157" title="bbox 4246 3743 4488 3833; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">quella</span>
+          </span>
+          <span class="ocr_line" id="line_1_20" title="bbox 715 3858 4487 3948; baseline 0 -21">
+            <span class="ocrx_word" id="word_1_158" title="bbox 715 3858 1174 3927; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">subordinate</span>
+            <span class="ocrx_word" id="word_1_159" title="bbox 1211 3880 1250 3927; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_160" title="bbox 1288 3858 1421 3927; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">che</span>
+            <span class="ocrx_word" id="word_1_161" title="bbox 1460 3858 1770 3927; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">abbiano</span>
+            <span class="ocrx_word" id="word_1_162" title="bbox 1806 3880 1932 3948; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">per</span>
+            <span class="ocrx_word" id="word_1_163" title="bbox 1966 3858 2439 3927; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">fondamento</span>
+            <span class="ocrx_word" id="word_1_164" title="bbox 2476 3858 2528 3926; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">il</span>
+            <span class="ocrx_word" id="word_1_165" title="bbox 2565 3858 2892 3948; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">disegno,</span>
+            <span class="ocrx_word" id="word_1_166" title="bbox 2934 3880 3073 3927; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">con</span>
+            <span class="ocrx_word" id="word_1_167" title="bbox 3109 3858 3179 3927; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">la</span>
+            <span class="ocrx_word" id="word_1_168" title="bbox 3213 3858 3484 3927; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">notizia</span>
+            <span class="ocrx_word" id="word_1_169" title="bbox 3519 3858 3632 3927; x_wconf 94" lang="ita" dir="ltr" xml:lang="ita">de’</span>
+            <span class="ocrx_word" id="word_1_170" title="bbox 3678 3858 3880 3927; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">nomi</span>
+            <span class="ocrx_word" id="word_1_171" title="bbox 3918 3880 3957 3927; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_172" title="bbox 3993 3858 4263 3948; x_wconf 83" lang="ita" dir="ltr" xml:lang="ita">qualità</span>
+            <span class="ocrx_word" id="word_1_173" title="bbox 4298 3858 4487 3927; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">delle</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_12" title="bbox 711 3973 4490 4238">
+        <p class="ocr_par" dir="ltr" id="par_1_12" title="bbox 711 3973 4490 4238">
+          <span class="ocr_line" id="line_1_21" title="bbox 713 3973 3435 4063; baseline -0 -21">
+            <span class="ocrx_word" id="word_1_174" title="bbox 713 3973 928 4063; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">gioie,</span>
+            <span class="ocrx_word" id="word_1_175" title="bbox 961 3973 1234 4042; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">metalli</span>
+            <span class="ocrx_word" id="word_1_176" title="bbox 1265 3995 1304 4042; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_177" title="bbox 1332 3973 1557 4063; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">pietre</span>
+            <span class="ocrx_word" id="word_1_178" title="bbox 1587 3973 1760 4042; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">dure</span>
+            <span class="ocrx_word" id="word_1_179" title="bbox 1790 3995 1893 4042; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">ec.</span>
+            <span class="ocrx_word" id="word_1_180" title="bbox 1927 3973 2244 4055; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Firenze,</span>
+            <span class="ocrx_word" id="word_1_181" title="bbox 2276 3995 2403 4063; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">per</span>
+            <span class="ocrx_word" id="word_1_182" title="bbox 2432 3973 2631 4042; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Santi</span>
+            <span class="ocrx_word" id="word_1_183" title="bbox 2660 3973 2983 4055; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">Franchi,</span>
+            <span class="ocrx_word" id="word_1_184" title="bbox 3025 3973 3233 4055; x_wconf 98" lang="ita" xml:lang="ita">1681,</span>
+            <span class="ocrx_word" id="word_1_185" title="bbox 3266 3973 3340 4041; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_186" title="bbox 3368 3974 3435 4042; x_wconf 99" lang="ita" xml:lang="ita">4.</span>
+          </span>
+          <span class="ocr_line" id="line_1_22" title="bbox 711 4084 4490 4159; baseline 0 -18">
+            <span class="ocrx_word" id="word_1_187" title="bbox 711 4084 892 4142; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">Libro</span>
+            <span class="ocrx_word" id="word_1_188" title="bbox 921 4084 1220 4159; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">prezioso,</span>
+            <span class="ocrx_word" id="word_1_189" title="bbox 1253 4084 1364 4142; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">che</span>
+            <span class="ocrx_word" id="word_1_190" title="bbox 1393 4084 1470 4142; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">ha</span>
+            <span class="ocrx_word" id="word_1_191" title="bbox 1497 4084 1627 4142; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">tutti</span>
+            <span class="ocrx_word" id="word_1_192" title="bbox 1656 4084 1676 4141; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">i</span>
+            <span class="ocrx_word" id="word_1_193" title="bbox 1704 4084 1974 4159; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">requisiti</span>
+            <span class="ocrx_word" id="word_1_194" title="bbox 2002 4103 2109 4159; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">per</span>
+            <span class="ocrx_word" id="word_1_195" title="bbox 2137 4084 2227 4142; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">far</span>
+            <span class="ocrx_word" id="word_1_196" title="bbox 2254 4093 2407 4142; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">testo</span>
+            <span class="ocrx_word" id="word_1_197" title="bbox 2438 4084 2499 4142; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_198" title="bbox 2529 4084 2734 4159; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">lingua</span>
+            <span class="ocrx_word" id="word_1_199" title="bbox 2763 4103 2796 4142; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_200" title="bbox 2825 4085 2985 4142; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">nella</span>
+            <span class="ocrx_word" id="word_1_201" title="bbox 3012 4093 3173 4142; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">terza</span>
+            <span class="ocrx_word" id="word_1_202" title="bbox 3201 4084 3479 4142; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">edizione</span>
+            <span class="ocrx_word" id="word_1_203" title="bbox 3509 4085 3607 4142; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">del</span>
+            <span class="ocrx_word" id="word_1_204" title="bbox 3636 4084 4044 4142; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">Vocabolario</span>
+            <span class="ocrx_word" id="word_1_205" title="bbox 4074 4085 4234 4142; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">della</span>
+            <span class="ocrx_word" id="word_1_206" title="bbox 4262 4085 4490 4142; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Crusca</span>
+          </span>
+          <span class="ocr_line" id="line_1_23" title="bbox 711 4180 1254 4238; baseline 0.002 -1">
+            <span class="ocrx_word" id="word_1_207" title="bbox 711 4180 906 4238; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">infatti</span>
+            <span class="ocrx_word" id="word_1_208" title="bbox 932 4199 1254 4238; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">ammesso.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_13" title="bbox 483 4375 4014 4465">
+        <p class="ocr_par" dir="ltr" id="par_1_13" title="bbox 483 4375 4014 4465">
+          <span class="ocr_line" id="line_1_24" title="bbox 483 4375 4014 4465; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_209" title="bbox 483 4376 698 4444; x_wconf 91" lang="ita" xml:lang="ita">2147.</span>
+            <span class="ocrx_word" id="word_1_210" title="bbox 732 4377 1013 4444; x_wconf 79" lang="ita" dir="ltr" xml:lang="ita">BALBO</span>
+            <span class="ocrx_word" id="word_1_211" title="bbox 1038 4375 1505 4457; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Bernardino,</span>
+            <span class="ocrx_word" id="word_1_212" title="bbox 1540 4375 1839 4444; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Scamili</span>
+            <span class="ocrx_word" id="word_1_213" title="bbox 1869 4375 2179 4465; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">impares</span>
+            <span class="ocrx_word" id="word_1_214" title="bbox 2210 4375 2616 4457; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">vitruviani,</span>
+            <span class="ocrx_word" id="word_1_215" title="bbox 2648 4376 3022 4465; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">Augustae</span>
+            <span class="ocrx_word" id="word_1_216" title="bbox 3051 4375 3582 4444; x_wconf 89" lang="ita" dir="ltr" xml:lang="ita">vùidelicorum</span>
+            <span class="ocrx_word" id="word_1_217" title="bbox 3619 4375 3805 4444; x_wconf 98" lang="ita" xml:lang="ita">1612</span>
+            <span class="ocrx_word" id="word_1_218" title="bbox 3835 4375 3909 4443; x_wconf 89" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_219" title="bbox 3937 4376 4014 4443; x_wconf 99" lang="ita" xml:lang="ita">4-</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_14" title="bbox 483 4586 4488 4676">
+        <p class="ocr_par" dir="ltr" id="par_1_14" title="bbox 483 4586 4488 4676">
+          <span class="ocr_line" id="line_1_25" title="bbox 483 4586 4488 4676; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_220" title="bbox 483 4587 698 4655; x_wconf 99" lang="ita" xml:lang="ita">2148.</span>
+            <span class="ocrx_word" id="word_1_221" title="bbox 735 4588 1013 4655; x_wconf 87" lang="ita" dir="ltr" xml:lang="ita">BASAN</span>
+            <span class="ocrx_word" id="word_1_222" title="bbox 1038 4588 1136 4668; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">F.,</span>
+            <span class="ocrx_word" id="word_1_223" title="bbox 1172 4586 1667 4655; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Dictionnaire</span>
+            <span class="ocrx_word" id="word_1_224" title="bbox 1700 4586 1826 4655; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">des</span>
+            <span class="ocrx_word" id="word_1_225" title="bbox 1861 4608 2198 4676; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">graveurs</span>
+            <span class="ocrx_word" id="word_1_226" title="bbox 2234 4586 2526 4655; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">anciens</span>
+            <span class="ocrx_word" id="word_1_227" title="bbox 2561 4597 2630 4655; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_228" title="bbox 2660 4586 3042 4655; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">modernes</span>
+            <span class="ocrx_word" id="word_1_229" title="bbox 3077 4586 3266 4655; x_wconf 77" lang="ita" dir="ltr" xml:lang="ita">deux</span>
+            <span class="ocrx_word" id="word_1_230" title="bbox 3298 4586 3442 4655; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">vol.</span>
+            <span class="ocrx_word" id="word_1_231" title="bbox 3479 4608 3568 4655; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">en</span>
+            <span class="ocrx_word" id="word_1_232" title="bbox 3599 4608 3696 4655; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">un</span>
+            <span class="ocrx_word" id="word_1_233" title="bbox 3728 4586 3898 4668; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">vol.,</span>
+            <span class="ocrx_word" id="word_1_234" title="bbox 3933 4586 4127 4655; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Paris</span>
+            <span class="ocrx_word" id="word_1_235" title="bbox 4170 4587 4378 4668; x_wconf 90" lang="ita" xml:lang="ita">1789,</span>
+            <span class="ocrx_word" id="word_1_236" title="bbox 4414 4586 4488 4654; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_15" title="bbox 713 4701 2880 4887">
+        <p class="ocr_par" dir="ltr" id="par_1_15" title="bbox 713 4701 2880 4887">
+          <span class="ocr_line" id="line_1_26" title="bbox 713 4701 1113 4791; baseline -0.003 -21">
+            <span class="ocrx_word" id="word_1_237" title="bbox 713 4712 957 4770; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">ottavo</span>
+            <span class="ocrx_word" id="word_1_238" title="bbox 987 4701 1113 4791; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">fig.</span>
+          </span>
+          <span class="ocr_line" id="line_1_27" title="bbox 714 4812 2880 4887; baseline 0 -18">
+            <span class="ocrx_word" id="word_1_239" title="bbox 714 4812 943 4870; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Sonovi</span>
+            <span class="ocrx_word" id="word_1_240" title="bbox 968 4813 1154 4870; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">molte</span>
+            <span class="ocrx_word" id="word_1_241" title="bbox 1178 4812 1513 4870; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">imitazioni</span>
+            <span class="ocrx_word" id="word_1_242" title="bbox 1538 4831 1571 4870; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">e</span>
+            <span class="ocrx_word" id="word_1_243" title="bbox 1598 4821 1827 4887; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">stampe</span>
+            <span class="ocrx_word" id="word_1_244" title="bbox 1852 4812 1913 4870; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_245" title="bbox 1939 4812 2105 4870; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">vario</span>
+            <span class="ocrx_word" id="word_1_246" title="bbox 2133 4812 2265 4870; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">stile</span>
+            <span class="ocrx_word" id="word_1_247" title="bbox 2292 4812 2503 4870; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">situate</span>
+            <span class="ocrx_word" id="word_1_248" title="bbox 2529 4812 2619 4870; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">fra</span>
+            <span class="ocrx_word" id="word_1_249" title="bbox 2641 4812 2684 4869; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">il</span>
+            <span class="ocrx_word" id="word_1_250" title="bbox 2709 4821 2880 4870; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">testo.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_16" title="bbox 471 5008 4487 5443">
+        <p class="ocr_par" dir="ltr" id="par_1_16" title="bbox 471 5008 4487 5443">
+          <span class="ocr_line" id="line_1_28" title="bbox 471 5008 4486 5098; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_251" title="bbox 471 5009 686 5078; x_wconf 90" lang="ita" xml:lang="ita">2149.</span>
+            <span class="ocrx_word" id="word_1_252" title="bbox 747 5010 1018 5077; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">BOBEL</span>
+            <span class="ocrx_word" id="word_1_253" title="bbox 1067 5010 1165 5090; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">P.,</span>
+            <span class="ocrx_word" id="word_1_254" title="bbox 1225 5009 1484 5077; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">Trésor</span>
+            <span class="ocrx_word" id="word_1_255" title="bbox 1540 5008 1629 5077; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">de</span>
+            <span class="ocrx_word" id="word_1_256" title="bbox 1685 5008 2107 5077; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">recherches</span>
+            <span class="ocrx_word" id="word_1_257" title="bbox 2167 5019 2236 5077; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_258" title="bbox 2292 5008 2674 5098; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">antiquités</span>
+            <span class="ocrx_word" id="word_1_259" title="bbox 2733 5008 3098 5098; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">gauloises</span>
+            <span class="ocrx_word" id="word_1_260" title="bbox 3157 5019 3226 5077; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_261" title="bbox 3281 5008 3704 5097; x_wconf 74" lang="ita" dir="ltr" xml:lang="ita">francoises,</span>
+            <span class="ocrx_word" id="word_1_262" title="bbox 3763 5008 4074 5077; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">réduites</span>
+            <span class="ocrx_word" id="word_1_263" title="bbox 4134 5030 4223 5077; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">en</span>
+            <span class="ocrx_word" id="word_1_264" title="bbox 4280 5008 4486 5077; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">ordre</span>
+          </span>
+          <span class="ocr_line" id="line_1_29" title="bbox 714 5123 1917 5213; baseline -0.001 -21">
+            <span class="ocrx_word" id="word_1_265" title="bbox 714 5123 1239 5213; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">alphabetique,</span>
+            <span class="ocrx_word" id="word_1_266" title="bbox 1272 5123 1466 5192; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Paris</span>
+            <span class="ocrx_word" id="word_1_267" title="bbox 1506 5123 1714 5205; x_wconf 98" lang="ita" xml:lang="ita">1655,</span>
+            <span class="ocrx_word" id="word_1_268" title="bbox 1748 5123 1822 5191; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_269" title="bbox 1850 5124 1917 5192; x_wconf 99" lang="ita" xml:lang="ita">4.</span>
+          </span>
+          <span class="ocr_line" id="line_1_30" title="bbox 705 5238 4487 5328; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_270" title="bbox 705 5281 804 5286; x_wconf 98" lang="ita" xml:lang="ita">
+              <strong>—</strong>
+            </span>
+            <span class="ocrx_word" id="word_1_271" title="bbox 844 5238 1172 5307; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">Accedit:</span>
+            <span class="ocrx_word" id="word_1_272" title="bbox 1221 5240 1334 5307; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">De</span>
+            <span class="ocrx_word" id="word_1_273" title="bbox 1376 5238 1763 5307; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">verborum</span>
+            <span class="ocrx_word" id="word_1_274" title="bbox 1804 5238 2373 5307; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">vitruvianorum</span>
+            <span class="ocrx_word" id="word_1_275" title="bbox 2417 5238 2954 5328; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">significatione</span>
+            <span class="ocrx_word" id="word_1_276" title="bbox 2997 5249 3066 5307; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_277" title="bbox 3106 5238 3254 5307; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">vita</span>
+            <span class="ocrx_word" id="word_1_278" title="bbox 3294 5238 3606 5307; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Vitruvii</span>
+            <span class="ocrx_word" id="word_1_279" title="bbox 3651 5238 3913 5307; x_wconf 94" lang="ita" dir="ltr" xml:lang="ita">eodem</span>
+            <span class="ocrx_word" id="word_1_280" title="bbox 3956 5249 4244 5307; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">auctore</span>
+            <span class="ocrx_word" id="word_1_281" title="bbox 4287 5249 4356 5307; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">et</span>
+            <span class="ocrx_word" id="word_1_282" title="bbox 4397 5238 4487 5307; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">de</span>
+          </span>
+          <span class="ocr_line" id="line_1_31" title="bbox 712 5353 2399 5443; baseline 0 -21">
+            <span class="ocrx_word" id="word_1_283" title="bbox 712 5353 1111 5422; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">macueulis</span>
+            <span class="ocrx_word" id="word_1_284" title="bbox 1145 5353 1519 5422; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">solaribus.</span>
+            <span class="ocrx_word" id="word_1_285" title="bbox 1555 5354 1791 5422; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Senza</span>
+            <span class="ocrx_word" id="word_1_286" title="bbox 1818 5353 2040 5443; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">luogo</span>
+            <span class="ocrx_word" id="word_1_287" title="bbox 2071 5353 2161 5422; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">ed</span>
+            <span class="ocrx_word" id="word_1_288" title="bbox 2191 5375 2399 5422; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">anno.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_17" title="bbox 485 5564 784 5653">
+        <p class="ocr_par" dir="ltr" id="par_1_17" title="bbox 485 5564 784 5653">
+          <span class="ocr_line" id="line_1_32" title="bbox 485 5564 784 5653; baseline -0.003 -21">
+            <span class="ocrx_word" id="word_1_289" title="bbox 485 5565 578 5653; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">[p.</span>
+            <span class="ocrx_word" id="word_1_290" title="bbox 614 5564 784 5646; x_wconf 84" lang="ita" xml:lang="ita">372]</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_18" title="bbox 479 5774 4484 5979">
+        <p class="ocr_par" dir="ltr" id="par_1_18" title="bbox 479 5774 4484 5979">
+          <span class="ocr_line" id="line_1_33" title="bbox 479 5774 4484 5864; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_291" title="bbox 479 5774 694 5843; x_wconf 89" lang="ita" xml:lang="ita">2150.</span>
+            <span class="ocrx_word" id="word_1_292" title="bbox 730 5775 955 5843; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">CEAN</span>
+            <span class="ocrx_word" id="word_1_293" title="bbox 978 5774 1383 5843; x_wconf 89" lang="ita" dir="ltr" xml:lang="ita">Bermudez</span>
+            <span class="ocrx_word" id="word_1_294" title="bbox 1415 5776 1503 5843; x_wconf 94" lang="ita" dir="ltr" xml:lang="ita">D.</span>
+            <span class="ocrx_word" id="word_1_295" title="bbox 1537 5776 1718 5843; x_wconf 84" lang="ita" dir="ltr" xml:lang="ita">Juan</span>
+            <span class="ocrx_word" id="word_1_296" title="bbox 1747 5774 2081 5864; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">Agostin,</span>
+            <span class="ocrx_word" id="word_1_297" title="bbox 2115 5774 2581 5843; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Diccionario</span>
+            <span class="ocrx_word" id="word_1_298" title="bbox 2611 5774 2957 5843; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">historico</span>
+            <span class="ocrx_word" id="word_1_299" title="bbox 2989 5774 3078 5843; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">de</span>
+            <span class="ocrx_word" id="word_1_300" title="bbox 3108 5774 3219 5843; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">los</span>
+            <span class="ocrx_word" id="word_1_301" title="bbox 3250 5796 3405 5843; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">mas</span>
+            <span class="ocrx_word" id="word_1_302" title="bbox 3437 5774 3747 5843; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">illustres</span>
+            <span class="ocrx_word" id="word_1_303" title="bbox 3778 5774 4227 5864; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">professores</span>
+            <span class="ocrx_word" id="word_1_304" title="bbox 4260 5774 4349 5843; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">de</span>
+            <span class="ocrx_word" id="word_1_305" title="bbox 4379 5774 4484 5843; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">las</span>
+          </span>
+          <span class="ocr_line" id="line_1_34" title="bbox 712 5889 2960 5979; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_306" title="bbox 712 5889 955 5958; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Bellas</span>
+            <span class="ocrx_word" id="word_1_307" title="bbox 985 5890 1197 5958; x_wconf 86" lang="ita" dir="ltr" xml:lang="ita">Artes</span>
+            <span class="ocrx_word" id="word_1_308" title="bbox 1229 5911 1318 5958; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">en</span>
+            <span class="ocrx_word" id="word_1_309" title="bbox 1346 5891 1703 5979; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Espanna,</span>
+            <span class="ocrx_word" id="word_1_310" title="bbox 1736 5889 2028 5958; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Madrid</span>
+            <span class="ocrx_word" id="word_1_311" title="bbox 2065 5890 2273 5971; x_wconf 89" lang="ita" xml:lang="ita">1800,</span>
+            <span class="ocrx_word" id="word_1_312" title="bbox 2306 5889 2380 5957; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+            <span class="ocrx_word" id="word_1_313" title="bbox 2413 5890 2475 5958; x_wconf 99" lang="ita" xml:lang="ita">8.</span>
+            <span class="ocrx_word" id="word_1_314" title="bbox 2509 5889 2810 5958; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">Volumi</span>
+            <span class="ocrx_word" id="word_1_315" title="bbox 2840 5891 2960 5958; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">VI.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_19" title="bbox 713 6000 3285 6075">
+        <p class="ocr_par" dir="ltr" id="par_1_19" title="bbox 713 6000 3285 6075">
+          <span class="ocr_line" id="line_1_35" title="bbox 713 6000 3285 6075; baseline -0 -17">
+            <span class="ocrx_word" id="word_1_316" title="bbox 713 6001 914 6075; x_wconf 92" lang="ita" dir="ltr" xml:lang="ita">Opera</span>
+            <span class="ocrx_word" id="word_1_317" title="bbox 936 6000 1288 6058; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">meritevole</span>
+            <span class="ocrx_word" id="word_1_318" title="bbox 1313 6001 1547 6058; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">d’esser</span>
+            <span class="ocrx_word" id="word_1_319" title="bbox 1570 6000 1923 6058; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita">conosciuta</span>
+            <span class="ocrx_word" id="word_1_320" title="bbox 1946 6001 2022 6058; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">ed</span>
+            <span class="ocrx_word" id="word_1_321" title="bbox 2047 6000 2407 6075; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">applaudita,</span>
+            <span class="ocrx_word" id="word_1_322" title="bbox 2433 6000 2812 6058; x_wconf 98" lang="ita" dir="ltr" xml:lang="ita">ricchissima</span>
+            <span class="ocrx_word" id="word_1_323" title="bbox 2835 6000 2896 6058; x_wconf 99" lang="ita" dir="ltr" xml:lang="ita">di</span>
+            <span class="ocrx_word" id="word_1_324" title="bbox 2921 6000 3285 6075; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">cognizioni.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_20" title="bbox 471 6194 4487 6380">
+        <p class="ocr_par" dir="ltr" id="par_1_20" title="bbox 471 6194 4487 6380">
+          <span class="ocr_line" id="line_1_36" title="bbox 471 6194 4487 6286; baseline 0 -22">
+            <span class="ocrx_word" id="word_1_325" title="bbox 471 6196 686 6265; x_wconf 99" lang="ita" xml:lang="ita">2151.</span>
+            <span class="ocrx_word" id="word_1_326" title="bbox 730 6194 1142 6278; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">CHOMPRÉ,</span>
+            <span class="ocrx_word" id="word_1_327" title="bbox 1179 6196 1675 6265; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Dictionnaire</span>
+            <span class="ocrx_word" id="word_1_328" title="bbox 1715 6196 1976 6286; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">abrégé</span>
+            <span class="ocrx_word" id="word_1_329" title="bbox 2015 6196 2104 6265; x_wconf 97" lang="ita" dir="ltr" xml:lang="ita">de</span>
+            <span class="ocrx_word" id="word_1_330" title="bbox 2142 6196 2212 6265; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">la</span>
+            <span class="ocrx_word" id="word_1_331" title="bbox 2249 6196 2444 6265; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">fable</span>
+            <span class="ocrx_word" id="word_1_332" title="bbox 2483 6218 2665 6286; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">pour</span>
+            <span class="ocrx_word" id="word_1_333" title="bbox 2701 6196 3224 6286; x_wconf 91" lang="ita" dir="ltr" xml:lang="ita">l’intelligence</span>
+            <span class="ocrx_word" id="word_1_334" title="bbox 3263 6196 3390 6265; x_wconf 93" lang="ita" dir="ltr" xml:lang="ita">des</span>
+            <span class="ocrx_word" id="word_1_335" title="bbox 3429 6197 3680 6286; x_wconf 85" lang="ita" dir="ltr" xml:lang="ita">poétes</span>
+            <span class="ocrx_word" id="word_1_336" title="bbox 3721 6207 3878 6278; x_wconf 96" lang="ita" dir="ltr" xml:lang="ita">etc.,</span>
+            <span class="ocrx_word" id="word_1_337" title="bbox 3920 6196 4115 6265; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">Paris</span>
+            <span class="ocrx_word" id="word_1_338" title="bbox 4164 6197 4372 6278; x_wconf 89" lang="ita" xml:lang="ita">1798,</span>
+            <span class="ocrx_word" id="word_1_339" title="bbox 4414 6196 4487 6264; x_wconf 90" lang="ita" dir="ltr" xml:lang="ita">in</span>
+          </span>
+          <span class="ocr_line" id="line_1_37" title="bbox 721 6312 828 6380; baseline 0.009 -1">
+            <span class="ocrx_word" id="word_1_340" title="bbox 721 6312 828 6380; x_wconf 98" lang="ita" xml:lang="ita">12.</span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_21" title="bbox 521 6604 4439 6608">
+        <p class="ocr_par" dir="ltr" id="par_1_21" title="bbox 521 6604 4439 6608">
+          <span class="ocr_line" id="line_1_38" title="bbox 521 6604 4439 6608; baseline 0 0">
+            <span class="ocrx_word" id="word_1_341" title="bbox 521 6604 4439 6608; x_wconf 95" lang="ita" dir="ltr" xml:lang="ita"> </span>
+          </span>
+        </p>
+      </div>
+      <div class="ocr_carea" id="block_1_22" title="bbox 2171 6637 2791 6710">
+        <p class="ocr_par" dir="ltr" id="par_1_22" title="bbox 2171 6637 2791 6710">
+          <span class="ocr_line" id="line_1_39" title="bbox 2171 6637 2791 6710; baseline 0 -16">
+            <span class="ocrx_word" id="word_1_342" title="bbox 2171 6657 2347 6694; x_wconf 88" lang="ita" dir="ltr" xml:lang="ita">WWW.</span>
+            <span class="ocrx_word" id="word_1_343" title="bbox 2358 6637 2734 6710; x_wconf 78" lang="ita" dir="ltr" xml:lang="ita">memofonte.</span>
+            <span class="ocrx_word" id="word_1_344" title="bbox 2748 6639 2791 6694; x_wconf 77" lang="ita" dir="ltr" xml:lang="ita">il</span>
+          </span>
+        </p>
+      </div>
+    </div>
+  </body>
 </html>
